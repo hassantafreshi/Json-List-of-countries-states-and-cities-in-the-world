@@ -1,31 +1,31 @@
-# Json List of countries states and cities in the world 
- ### Json List of countries states and cities in the world  and local names
+# JSON List of Countries, States, and Cities Worldwide
+ ### Comprehensive JSON list encompassing countries, states, and cities globally, including local names.
 <br /> 
 
- #### This list contains the names of 240 territories including independent countries and non-independent regions.
+ #### This dataset consolidates information on 240 territories, comprising independent countries and non-independent regions. It provides names in both English and local languages, encompassing regions, countries, provinces, and cities.
 <br /> 
 
- #### Based on the following sources, the names of regions and countries, including the name of the province and city of each country, have been collected in English and local languages.
+ #### Sources
 <br /> 
 1- https://wikipeda.com/
 
 
 <br /> 
 
-### Notice: 
-#### There may be a problem with the names or the number of cities, please inform us if you see them.
+### Important Note: 
+#### If you encounter any issues with city names or notice discrepancies in the number of cities, please bring it to our attention.
 
 
-## The structure of path to receive JSON
+## JSON Path Structure
 
-### Get list of State/province of the country:
+### Fetch the list of states/provinces for a country:
 ```
 https://cdn.jsdelivr.net/gh/hassantafreshi/Json-List-of-countries-states-and-cities-in-the-world@main/json/states/XX.json
 ```
 
 
 
-### Get list of cites of the State/province of the country:
+### Obtain the list of cities for a specific state/province in a country:
 ```
 https://cdn.jsdelivr.net/gh/hassantafreshi/Json-List-of-countries-states-and-cities-in-the-world@main/json/cites/XX/YY.json
 ```
