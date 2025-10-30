@@ -1,0 +1,170 @@
+{
+  "generated_at": "2025-10-30T20:25:57.055991+00:00",
+  "stats": {
+    "countries_total": 241,
+    "countries_with_states": 237,
+    "countries_missing_states": 4,
+    "states_total": 3214,
+    "states_missing_city_file": 36,
+    "city_files_total": 3178,
+    "city_records_total": 43986
+  },
+  "countries_missing_states": {
+    "British Virgin Islands": "Missing state file",
+    "Kenya": "Missing state file",
+    "Qatar": "Missing state file",
+    "Romania": "Missing state file"
+  },
+  "states_missing_cities": {
+    "Algeria": [
+      "CON"
+    ],
+    "Dominican Republic": [
+      "MTS"
+    ],
+    "Georgia": [
+      "AJ",
+      "AP",
+      "CI",
+      "GU",
+      "IM",
+      "KA",
+      "KK",
+      "MM",
+      "RL",
+      "SZ",
+      "SJ",
+      "SK",
+      "TB"
+    ],
+    "Guinea": [
+      "con",
+      "kis"
+    ],
+    "Ireland": [
+      "CON"
+    ],
+    "Monaco": [
+      "CON"
+    ],
+    "Niue": [
+      "NIU"
+    ],
+    "Paraguay": [
+      "CON"
+    ],
+    "Philippines": [
+      "phph",
+      "antq"
+    ],
+    "Reunion": [
+      "CON"
+    ],
+    "Saint Martin": [
+      "CON"
+    ],
+    "Solomon Islands": [
+      "CEN",
+      "CHO",
+      "GUA",
+      "HON",
+      "ISA",
+      "MAK",
+      "MAL",
+      "REN",
+      "TEM",
+      "WES"
+    ],
+    "Taiwan": [
+      "JNM"
+    ]
+  },
+  "orphan_city_files": {
+    "MF": [
+      "_CON"
+    ],
+    "SC": [
+      "MAH (1)"
+    ],
+    "TW": [
+      "GXS (1)",
+      "XIN"
+    ],
+    "IE": [
+      "_CON"
+    ],
+    "EH": [
+      "AOU (1)"
+    ],
+    "GN": [
+      "_CON"
+    ],
+    "PY": [
+      "_CON"
+    ],
+    "JE": [
+      "BRE (1)",
+      "GRO (1)"
+    ],
+    "SB": [
+      "CENTRAL",
+      "CHOISEUL",
+      "GUADALCANAL",
+      "HONIARA",
+      "ISABEL",
+      "MAKIRA-ULAWA",
+      "MALAITA",
+      "RENNELL & BELLONA",
+      "TEMOTU",
+      "WESTERN"
+    ],
+    "IN": [
+      "KARNATAKA"
+    ],
+    "PL": [
+      "DOL (1)"
+    ],
+    "DO": [
+      "AZU (1)",
+      "LA VEGA"
+    ],
+    "BA": [
+      "FBH",
+      "RSP"
+    ],
+    "KM": [
+      "MWA (1)"
+    ],
+    "BW": [
+      "CEN (1)"
+    ],
+    "NU": [
+      "NIUĒ"
+    ],
+    "CZ": [
+      "JC (1)"
+    ],
+    "GG": [
+      "ALD (1)"
+    ],
+    "PH": [
+      "ANTIQUE"
+    ],
+    "DZ": [
+      "_CON"
+    ],
+    "RE": [
+      "_CON"
+    ],
+    "MC": [
+      "_CON"
+    ],
+    "IT": [
+      "ABR (1)"
+    ],
+    "LK": [
+      "CEN (1)"
+    ]
+  },
+  "invalid_city_files": []
+}
