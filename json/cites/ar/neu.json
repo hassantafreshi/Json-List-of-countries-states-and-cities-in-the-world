@@ -1,1 +1,46 @@
-{"1":{"n":"Alumine","l":""},"2":{"n":"Anelo","l":""},"3":{"n":"Catan Lil","l":""},"4":{"n":"Chos Malal","l":""},"5":{"n":"Collon Cura","l":""},"6":{"n":"Confluencia","l":""},"7":{"n":"Huiliches","l":""},"8":{"n":"Lacar","l":""},"9":{"n":"Loncopue","l":""},"10":{"n":"Los Lagos","l":""},"11":{"n":"Minas","l":""},"12":{"n":"Norquin","l":""},"13":{"n":"Pehuenches","l":""},"14":{"n":"Picunches","l":""},"15":{"n":"Picun Leufu","l":""},"16":{"n":"Zapala","l":""}}
+{
+  "1": {
+    "n": "Neuquén",
+    "l": "Neuquén"
+  },
+  "2": {
+    "n": "San Martín de los Andes",
+    "l": "San Martín de los Andes"
+  },
+  "3": {
+    "n": "Junín de los Andes",
+    "l": "Junín de los Andes"
+  },
+  "4": {
+    "n": "Cutral Có",
+    "l": "Cutral Có"
+  },
+  "5": {
+    "n": "Plaza Huincul",
+    "l": "Plaza Huincul"
+  },
+  "6": {
+    "n": "Zapala",
+    "l": "Zapala"
+  },
+  "7": {
+    "n": "Centenario",
+    "l": "Centenario"
+  },
+  "8": {
+    "n": "Plottier",
+    "l": "Plottier"
+  },
+  "9": {
+    "n": "Chos Malal",
+    "l": "Chos Malal"
+  },
+  "10": {
+    "n": "Villa La Angostura",
+    "l": "Villa La Angostura"
+  },
+  "11": {
+    "n": "Rincón de los Sauces",
+    "l": "Rincón de los Sauces"
+  }
+}

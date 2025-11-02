@@ -1,1 +1,46 @@
-{"1":{"n":"Albardon","l":""},"2":{"n":"Angaco","l":""},"3":{"n":"Calingasta","l":""},"4":{"n":"Capital","l":""},"5":{"n":"Caucete","l":""},"6":{"n":"Chimbas","l":""},"7":{"n":"Iglesia","l":""},"8":{"n":"Jachal","l":""},"9":{"n":"Nueve de Julio","l":""},"10":{"n":"Pocito","l":""},"11":{"n":"Rawson","l":""},"12":{"n":"Rivadavia","l":""},"13":{"n":"San Martin","l":""},"14":{"n":"Santa Lucia","l":""},"15":{"n":"Sarmiento","l":""},"16":{"n":"Ullum","l":""},"17":{"n":"Valle Fertil","l":""},"18":{"n":"Veinticinco de Mayo","l":""},"19":{"n":"Zonda","l":""}}
+{
+  "1": {
+    "n": "San Juan",
+    "l": "San Juan"
+  },
+  "2": {
+    "n": "Rawson",
+    "l": "Rawson"
+  },
+  "3": {
+    "n": "Chimbas",
+    "l": "Chimbas"
+  },
+  "4": {
+    "n": "Rivadavia",
+    "l": "Rivadavia"
+  },
+  "5": {
+    "n": "Pocito",
+    "l": "Pocito"
+  },
+  "6": {
+    "n": "Santa Lucía",
+    "l": "Santa Lucía"
+  },
+  "7": {
+    "n": "Albardón",
+    "l": "Albardón"
+  },
+  "8": {
+    "n": "Caucete",
+    "l": "Caucete"
+  },
+  "9": {
+    "n": "Jáchal",
+    "l": "Jáchal"
+  },
+  "10": {
+    "n": "Sarmiento",
+    "l": "Sarmiento"
+  },
+  "11": {
+    "n": "San Martín",
+    "l": "San Martín"
+  }
+}

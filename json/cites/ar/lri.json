@@ -1,1 +1,42 @@
-{"1":{"n":"Arauco","l":""},"2":{"n":"Capital","l":""},"3":{"n":"Castro Barros","l":""},"4":{"n":"Chamical","l":""},"5":{"n":"Chilecito","l":""},"6":{"n":"Coronel Felipe Varela","l":""},"7":{"n":"Famatina","l":""},"8":{"n":"General Angel V. Penaloza","l":""},"9":{"n":"General Belgrano","l":""},"10":{"n":"General Juan Facundo Quiroga","l":""},"11":{"n":"General Lamadrid","l":""},"12":{"n":"General Ocampo","l":""},"13":{"n":"General San Martin","l":""},"14":{"n":"Independencia","l":""},"15":{"n":"Rosario Vera Penaloza","l":""},"16":{"n":"Sanagasta","l":""},"17":{"n":"San Blas de los Sauces","l":""},"18":{"n":"Vinchina","l":""}}
+{
+  "1": {
+    "n": "La Rioja",
+    "l": "La Rioja"
+  },
+  "2": {
+    "n": "Chilecito",
+    "l": "Chilecito"
+  },
+  "3": {
+    "n": "Aimogasta",
+    "l": "Aimogasta"
+  },
+  "4": {
+    "n": "Chamical",
+    "l": "Chamical"
+  },
+  "5": {
+    "n": "Chepes",
+    "l": "Chepes"
+  },
+  "6": {
+    "n": "Villa Unión",
+    "l": "Villa Unión"
+  },
+  "7": {
+    "n": "Anillaco",
+    "l": "Anillaco"
+  },
+  "8": {
+    "n": "Olta",
+    "l": "Olta"
+  },
+  "9": {
+    "n": "Famatina",
+    "l": "Famatina"
+  },
+  "10": {
+    "n": "Ulapes",
+    "l": "Ulapes"
+  }
+}
