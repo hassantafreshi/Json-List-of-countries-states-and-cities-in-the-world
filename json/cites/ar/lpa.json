@@ -1,1 +1,42 @@
-{"1":{"n":"Atreuco","l":""},"2":{"n":"Caleu Caleu","l":""},"3":{"n":"Capital","l":""},"4":{"n":"Catrilo","l":""},"5":{"n":"Chalileo","l":""},"6":{"n":"Chapaleufu","l":""},"7":{"n":"Chical Co","l":""},"8":{"n":"Conhelo","l":""},"9":{"n":"Curaco","l":""},"10":{"n":"Guatrache","l":""},"11":{"n":"Hucal","l":""},"12":{"n":"Lihuel Calel","l":""},"13":{"n":"Limay Mahuida","l":""},"14":{"n":"Loventue","l":""},"15":{"n":"Maraco","l":""},"16":{"n":"Puelen","l":""},"17":{"n":"Quemu Quemu","l":""},"18":{"n":"Rancul","l":""},"19":{"n":"Realico","l":""},"20":{"n":"Toay","l":""},"21":{"n":"Trenel","l":""},"22":{"n":"Utracan","l":""}}
+{
+  "1": {
+    "n": "Santa Rosa",
+    "l": "Santa Rosa"
+  },
+  "2": {
+    "n": "General Pico",
+    "l": "General Pico"
+  },
+  "3": {
+    "n": "Toay",
+    "l": "Toay"
+  },
+  "4": {
+    "n": "General Acha",
+    "l": "General Acha"
+  },
+  "5": {
+    "n": "25 de Mayo",
+    "l": "25 de Mayo"
+  },
+  "6": {
+    "n": "Victorica",
+    "l": "Victorica"
+  },
+  "7": {
+    "n": "Eduardo Castex",
+    "l": "Eduardo Castex"
+  },
+  "8": {
+    "n": "Macachín",
+    "l": "Macachín"
+  },
+  "9": {
+    "n": "Catriló",
+    "l": "Catriló"
+  },
+  "10": {
+    "n": "Realicó",
+    "l": "Realicó"
+  }
+}

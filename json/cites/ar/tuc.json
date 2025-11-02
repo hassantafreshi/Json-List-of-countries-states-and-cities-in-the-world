@@ -1,1 +1,42 @@
-{"1":{"n":"Burruyacu","l":""},"2":{"n":"Capital","l":""},"3":{"n":"Chicligasta","l":""},"4":{"n":"Cruz Alta","l":""},"5":{"n":"Famailla","l":""},"6":{"n":"Graneros","l":""},"7":{"n":"Juan Bautista Alberdi","l":""},"8":{"n":"La Cocha","l":""},"9":{"n":"Leales","l":""},"10":{"n":"Lules","l":""},"11":{"n":"Monteros","l":""},"12":{"n":"Rio Chico","l":""},"13":{"n":"Simoca","l":""},"14":{"n":"Tafi del Valle","l":""},"15":{"n":"Tafi Viejo","l":""},"16":{"n":"Trancas","l":""},"17":{"n":"Yerba Buena","l":""}}
+{
+  "1": {
+    "n": "San Miguel de Tucumán",
+    "l": "San Miguel de Tucumán"
+  },
+  "2": {
+    "n": "Tafí Viejo",
+    "l": "Tafí Viejo"
+  },
+  "3": {
+    "n": "Yerba Buena",
+    "l": "Yerba Buena"
+  },
+  "4": {
+    "n": "Concepción",
+    "l": "Concepción"
+  },
+  "5": {
+    "n": "Monteros",
+    "l": "Monteros"
+  },
+  "6": {
+    "n": "Bella Vista",
+    "l": "Bella Vista"
+  },
+  "7": {
+    "n": "Aguilares",
+    "l": "Aguilares"
+  },
+  "8": {
+    "n": "Lules",
+    "l": "Lules"
+  },
+  "9": {
+    "n": "Banda del Río Salí",
+    "l": "Banda del Río Salí"
+  },
+  "10": {
+    "n": "Famaillá",
+    "l": "Famaillá"
+  }
+}
