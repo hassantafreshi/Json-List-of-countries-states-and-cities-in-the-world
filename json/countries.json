@@ -24,7 +24,7 @@
 "Bhutan":{"n":"Bhutan","l":"འབྲུག་ཡུལ","s2":"BT", "s3":"BTN","c_c":"975","r_a_n":"^0202\\d{4}-\\d{4}$","e_a_n":"(02)1234-5678"},
 "Bolivia":{"n":"Bolivia","l":"Volívia","s2":"BO", "s3":"BOL","c_c":"591","r_a_n":"^\\d{7}$","e_a_n":"234567890"},
 "Bosnia and Herzegovina":{"n":"Bosnia and Herzegovina","l":"Босна и Херцеговина","s2":"BA", "s3":"BIH","c_c":"387","r_a_n":"^(0[1-9]{1}[0-9]{1,2})([0-9]{3})([0-9]{3})$","e_a_n":"033555777"},
-"Botswana":{"n":"Botswana","l":"Botswana","s2":"BW", "s3":"BWA","c_c":"267","r_a_n":"^(2[0-3]|[01]?[0-9])[0-9]{6}$","e_a_n":"20356891"},
+"Botswana":{"n":"Botswana","l":"Rephaboliki ya Botswana","s2":"BW", "s3":"BWA","c_c":"267","r_a_n":"^(?:[2-6][0-9]{6,7}|7[0-9]{7})$","e_a_n":"71234567"},
 "Brazil":{"n":"Brazil","l":"Brasil","s2":"BR", "s3":"BRA","c_c":"55","r_a_n":"^\\d{2}\\ \\d{4,5}\\-\\d{4}$","e_a_n":"21 2555-5555"},
 "British Virgin Islands":{"n":"British Virgin Islands","l":"British Virgin Islands","s2":"VG", "s3":"VGB","c_c":"1284","r_a_n":"^(284)([0-9]{7})$","e_a_n":"2849999999"},
 "Brunei":{"n":"Brunei","l":"بروني","s2":"BN", "s3":"BRN","c_c":"673","r_a_n":"^[2-9]\\d{7}$","e_a_n":"22345678"},
