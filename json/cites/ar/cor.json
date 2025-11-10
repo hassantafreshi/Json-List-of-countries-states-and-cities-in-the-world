@@ -1,1 +1,50 @@
-{"1":{"n":"Bella Vista","l":""},"2":{"n":"Beron de Astrada","l":""},"3":{"n":"Capital","l":""},"4":{"n":"Concepcion","l":""},"5":{"n":"Curuzu Cuatia","l":""},"6":{"n":"Empedrado","l":""},"7":{"n":"Esquina","l":""},"8":{"n":"General Alvear","l":""},"9":{"n":"General Paz","l":""},"10":{"n":"Goya","l":""},"11":{"n":"Itati","l":""},"12":{"n":"Ituzaingo","l":""},"13":{"n":"Lavalle","l":""},"14":{"n":"Mburucuya","l":""},"15":{"n":"Mercedes","l":""},"16":{"n":"Monte Caseros","l":""},"17":{"n":"Paso de los Libres","l":""},"18":{"n":"Saladas","l":""},"19":{"n":"San Cosme","l":""},"20":{"n":"San Luis del Palmar","l":""},"21":{"n":"San Martin","l":""},"22":{"n":"San Miguel","l":""},"23":{"n":"San Roque","l":""},"24":{"n":"Santo Tome","l":""},"25":{"n":"Sauce","l":""}}
+{
+  "1": {
+    "n": "Corrientes",
+    "l": "Corrientes"
+  },
+  "2": {
+    "n": "Goya",
+    "l": "Goya"
+  },
+  "3": {
+    "n": "Paso de los Libres",
+    "l": "Paso de los Libres"
+  },
+  "4": {
+    "n": "Mercedes",
+    "l": "Mercedes"
+  },
+  "5": {
+    "n": "Curuzú Cuatiá",
+    "l": "Curuzú Cuatiá"
+  },
+  "6": {
+    "n": "Santo Tomé",
+    "l": "Santo Tomé"
+  },
+  "7": {
+    "n": "Ituzaingó",
+    "l": "Ituzaingó"
+  },
+  "8": {
+    "n": "Gobernador Virasoro",
+    "l": "Gobernador Virasoro"
+  },
+  "9": {
+    "n": "Monte Caseros",
+    "l": "Monte Caseros"
+  },
+  "10": {
+    "n": "Bella Vista",
+    "l": "Bella Vista"
+  },
+  "11": {
+    "n": "Esquina",
+    "l": "Esquina"
+  },
+  "12": {
+    "n": "Sauce",
+    "l": "Sauce"
+  }
+}

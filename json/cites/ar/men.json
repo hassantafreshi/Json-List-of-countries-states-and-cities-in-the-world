@@ -1,1 +1,50 @@
-{"1":{"n":"Capital","l":""},"2":{"n":"General Alvear","l":""},"3":{"n":"Godoy Cruz","l":""},"4":{"n":"Guaymallen","l":""},"5":{"n":"Junin","l":""},"6":{"n":"La Paz","l":""},"7":{"n":"Las Heras","l":""},"8":{"n":"Lavalle","l":""},"9":{"n":"Lujan de Cuyo","l":""},"10":{"n":"Maipu","l":""},"11":{"n":"Malargue","l":""},"12":{"n":"Rivadavia","l":""},"13":{"n":"San Carlos","l":""},"14":{"n":"San Martin","l":""},"15":{"n":"San Rafael","l":""},"16":{"n":"Santa Rosa","l":""},"17":{"n":"Tunuyan","l":""},"18":{"n":"Tupungato","l":""}}
+{
+  "1": {
+    "n": "Mendoza",
+    "l": "Mendoza"
+  },
+  "2": {
+    "n": "San Rafael",
+    "l": "San Rafael"
+  },
+  "3": {
+    "n": "Godoy Cruz",
+    "l": "Godoy Cruz"
+  },
+  "4": {
+    "n": "Guaymallén",
+    "l": "Guaymallén"
+  },
+  "5": {
+    "n": "Las Heras",
+    "l": "Las Heras"
+  },
+  "6": {
+    "n": "Luján de Cuyo",
+    "l": "Luján de Cuyo"
+  },
+  "7": {
+    "n": "Maipú",
+    "l": "Maipú"
+  },
+  "8": {
+    "n": "Tunuyán",
+    "l": "Tunuyán"
+  },
+  "9": {
+    "n": "Tupungato",
+    "l": "Tupungato"
+  },
+  "10": {
+    "n": "San Martín",
+    "l": "San Martín"
+  },
+  "11": {
+    "n": "General Alvear",
+    "l": "General Alvear"
+  },
+  "12": {
+    "n": "Malargüe",
+    "l": "Malargüe"
+  }
+}
