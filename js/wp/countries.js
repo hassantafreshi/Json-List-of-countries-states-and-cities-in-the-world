@@ -153,7 +153,7 @@ const counstries_list_efb =[{"n":"Afghanistan","l":"افغانستان","s2":"AF
 {"n":"Namibia","l":"Namibië","s2":"NA", "s3":"NAM","c_c":"264","r_a_n":"^(0\\d{1,2})\\d{6,7}$","e_a_n":"08123456"},
 {"n":"Nauru","l":"Naoero","s2":"NR", "s3":"NRU","c_c":"674","r_a_n":"^\\d{3}\\d{4}$","e_a_n":"5678901"},
 {"n":"Nepal","l":"नेपाल","s2":"NP", "s3":"NPL","c_c":"977","r_a_n":"^\\d{6}$","e_a_n":"123456"},
-{"n":"Netherlands","l":"Nederlân","s2":"NL", "s3":"NLD","c_c":"31","r_a_n":"^0\\d{1,2} \\d{6,8}$","e_a_n":"020 1234567"},
+{"n":"Netherlands","l":"Nederland","s2":"NL", "s3":"NLD","c_c":"31","r_a_n":"^0\\d{1,2} \\d{6,8}$","e_a_n":"020 1234567"},
 {"n":"New Caledonia","l":"Nouvelle-Calédonie","s2":"NC", "s3":"NCL","c_c":"687","r_a_n":"^(\\d{2} \\d{2} \\d{2} \\d{2})$","e_a_n":"75 12 34 56"},
 {"n":"New Zealand","l":"Aotearoa","s2":"NZ", "s3":"NZL","c_c":"64","r_a_n":"^(0[2-9][0-9]{8})$","e_a_n":"0211234567"},
 {"n":"Nicaragua","l":"Nicaragua","s2":"NI", "s3":"NIC","c_c":"505","r_a_n":"^\\d{8}$","e_a_n":"22556677"},
