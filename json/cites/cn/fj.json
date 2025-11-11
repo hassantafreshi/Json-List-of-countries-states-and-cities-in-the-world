@@ -1,1 +1,42 @@
-{"1":{"n":"Fuzhou Shi","l":"福州市"},"2":{"n":"Longyan Shi","l":"龙岩市"},"3":{"n":"Nanping Shi","l":"南平市"},"4":{"n":"Ningde Shi","l":"宁德市"},"5":{"n":"Putian Shi","l":"莆田市"},"6":{"n":"Quanzhou Shi","l":"泉州市"},"7":{"n":"Sanming Shi","l":"三明市"},"8":{"n":"Xiamen Shi","l":"厦门市"},"9":{"n":"Zhangzhou Shi","l":"漳州市"}}
+{
+  "1": {
+    "n": "Fuzhou",
+    "l": "福州"
+  },
+  "2": {
+    "n": "Xiamen",
+    "l": "厦门"
+  },
+  "3": {
+    "n": "Quanzhou",
+    "l": "泉州"
+  },
+  "4": {
+    "n": "Zhangzhou",
+    "l": "漳州"
+  },
+  "5": {
+    "n": "Putian",
+    "l": "莆田"
+  },
+  "6": {
+    "n": "Ningde",
+    "l": "宁德"
+  },
+  "7": {
+    "n": "Nanping",
+    "l": "南平"
+  },
+  "8": {
+    "n": "Longyan",
+    "l": "龙岩"
+  },
+  "9": {
+    "n": "Sanming",
+    "l": "三明"
+  },
+  "10": {
+    "n": "Jinjiang",
+    "l": "晋江"
+  }
+}

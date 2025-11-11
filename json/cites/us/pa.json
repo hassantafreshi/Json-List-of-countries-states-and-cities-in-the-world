@@ -1,1 +1,42 @@
-{"1":{"n":"Adams","l":""},"2":{"n":"Allegheny","l":""},"3":{"n":"Armstrong","l":""},"4":{"n":"Beaver","l":""},"5":{"n":"Bedford","l":""},"6":{"n":"Berks","l":""},"7":{"n":"Blair","l":""},"8":{"n":"Bradford","l":""},"9":{"n":"Bucks","l":""},"10":{"n":"Butler","l":""},"11":{"n":"Cambria","l":""},"12":{"n":"Cameron","l":""},"13":{"n":"Carbon","l":""},"14":{"n":"Centre","l":""},"15":{"n":"Chester","l":""},"16":{"n":"Clarion","l":""},"17":{"n":"Clearfield","l":""},"18":{"n":"Clinton","l":""},"19":{"n":"Columbia","l":""},"20":{"n":"Crawford","l":""},"21":{"n":"Cumberland","l":""},"22":{"n":"Dauphin","l":""},"23":{"n":"Delaware","l":""},"24":{"n":"Elk","l":""},"25":{"n":"Erie","l":""},"26":{"n":"Fayette","l":""},"27":{"n":"Forest","l":""},"28":{"n":"Franklin","l":""},"29":{"n":"Fulton","l":""},"30":{"n":"Greene","l":""},"31":{"n":"Huntingdon","l":""},"32":{"n":"Indiana","l":""},"33":{"n":"Jefferson","l":""},"34":{"n":"Juniata","l":""},"35":{"n":"Lackawanna","l":""},"36":{"n":"Lancaster","l":""},"37":{"n":"Lawrence","l":""},"38":{"n":"Lebanon","l":""},"39":{"n":"Lehigh","l":""},"40":{"n":"Luzerne","l":""},"41":{"n":"Lycoming","l":""},"42":{"n":"McKean","l":""},"43":{"n":"Mercer","l":""},"44":{"n":"Mifflin","l":""},"45":{"n":"Monroe","l":""},"46":{"n":"Montgomery","l":""},"47":{"n":"Montour","l":""},"48":{"n":"Northampton","l":""},"49":{"n":"Northumberland","l":""},"50":{"n":"Perry","l":""},"51":{"n":"Philadelphia","l":""},"52":{"n":"Pike","l":""},"53":{"n":"Potter","l":""},"54":{"n":"Schuylkill","l":""},"55":{"n":"Snyder","l":""},"56":{"n":"Somerset","l":""},"57":{"n":"Sullivan","l":""},"58":{"n":"Susquehanna","l":""},"59":{"n":"Tioga","l":""},"60":{"n":"Union","l":""},"61":{"n":"Venango","l":""},"62":{"n":"Warren","l":""},"63":{"n":"Washington","l":""},"64":{"n":"Wayne","l":""},"65":{"n":"Westmoreland","l":""},"66":{"n":"Wyoming","l":""},"67":{"n":"York","l":""}}
+{
+  "1": {
+    "n": "Philadelphia",
+    "l": "Philadelphia"
+  },
+  "2": {
+    "n": "Pittsburgh",
+    "l": "Pittsburgh"
+  },
+  "3": {
+    "n": "Allentown",
+    "l": "Allentown"
+  },
+  "4": {
+    "n": "Erie",
+    "l": "Erie"
+  },
+  "5": {
+    "n": "Reading",
+    "l": "Reading"
+  },
+  "6": {
+    "n": "Scranton",
+    "l": "Scranton"
+  },
+  "7": {
+    "n": "Bethlehem",
+    "l": "Bethlehem"
+  },
+  "8": {
+    "n": "Lancaster",
+    "l": "Lancaster"
+  },
+  "9": {
+    "n": "Harrisburg",
+    "l": "Harrisburg"
+  },
+  "10": {
+    "n": "York",
+    "l": "York"
+  }
+}

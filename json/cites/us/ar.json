@@ -1,1 +1,42 @@
-{"1":{"n":"Arkansas","l":""},"2":{"n":"Ashley","l":""},"3":{"n":"Baxter","l":""},"4":{"n":"Benton","l":""},"5":{"n":"Boone","l":""},"6":{"n":"Bradley","l":""},"7":{"n":"Calhoun","l":""},"8":{"n":"Carroll","l":""},"9":{"n":"Chicot","l":""},"10":{"n":"Clark","l":""},"11":{"n":"Clay","l":""},"12":{"n":"Cleburne","l":""},"13":{"n":"Cleveland","l":""},"14":{"n":"Columbia","l":""},"15":{"n":"Conway","l":""},"16":{"n":"Craighead","l":""},"17":{"n":"Crawford","l":""},"18":{"n":"Crittenden","l":""},"19":{"n":"Cross","l":""},"20":{"n":"Dallas","l":""},"21":{"n":"Desha","l":""},"22":{"n":"Drew","l":""},"23":{"n":"Faulkner","l":""},"24":{"n":"Franklin","l":""},"25":{"n":"Fulton","l":""},"26":{"n":"Garland","l":""},"27":{"n":"Grant","l":""},"28":{"n":"Greene","l":""},"29":{"n":"Hempstead","l":""},"30":{"n":"Hot Spring","l":""},"31":{"n":"Howard","l":""},"32":{"n":"Independence","l":""},"33":{"n":"Izard","l":""},"34":{"n":"Jackson","l":""},"35":{"n":"Jefferson","l":""},"36":{"n":"Johnson","l":""},"37":{"n":"Lafayette","l":""},"38":{"n":"Lawrence","l":""},"39":{"n":"Lee","l":""},"40":{"n":"Lincoln","l":""},"41":{"n":"Little River","l":""},"42":{"n":"Logan","l":""},"43":{"n":"Lonoke","l":""},"44":{"n":"Madison","l":""},"45":{"n":"Marion","l":""},"46":{"n":"Miller","l":""},"47":{"n":"Mississippi","l":""},"48":{"n":"Monroe","l":""},"49":{"n":"Montgomery","l":""},"50":{"n":"Nevada","l":""},"51":{"n":"Newton","l":""},"52":{"n":"Ouachita","l":""},"53":{"n":"Perry","l":""},"54":{"n":"Phillips","l":""},"55":{"n":"Pike","l":""},"56":{"n":"Poinsett","l":""},"57":{"n":"Polk","l":""},"58":{"n":"Pope","l":""},"59":{"n":"Prairie","l":""},"60":{"n":"Pulaski","l":""},"61":{"n":"Randolph","l":""},"62":{"n":"Saline","l":""},"63":{"n":"Scott","l":""},"64":{"n":"Searcy","l":""},"65":{"n":"Sebastian","l":""},"66":{"n":"Sevier","l":""},"67":{"n":"Sharp","l":""},"68":{"n":"St. Francis","l":""},"69":{"n":"Stone","l":""},"70":{"n":"Union","l":""},"71":{"n":"Van Buren","l":""},"72":{"n":"Washington","l":""},"73":{"n":"White","l":""},"74":{"n":"Woodruff","l":""},"75":{"n":"Yell","l":""}}
+{
+  "1": {
+    "n": "Little Rock",
+    "l": "Little Rock"
+  },
+  "2": {
+    "n": "Fort Smith",
+    "l": "Fort Smith"
+  },
+  "3": {
+    "n": "Fayetteville",
+    "l": "Fayetteville"
+  },
+  "4": {
+    "n": "Springdale",
+    "l": "Springdale"
+  },
+  "5": {
+    "n": "Jonesboro",
+    "l": "Jonesboro"
+  },
+  "6": {
+    "n": "North Little Rock",
+    "l": "North Little Rock"
+  },
+  "7": {
+    "n": "Conway",
+    "l": "Conway"
+  },
+  "8": {
+    "n": "Rogers",
+    "l": "Rogers"
+  },
+  "9": {
+    "n": "Pine Bluff",
+    "l": "Pine Bluff"
+  },
+  "10": {
+    "n": "Bentonville",
+    "l": "Bentonville"
+  }
+}

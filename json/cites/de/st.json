@@ -1,1 +1,42 @@
-{"1":{"n":"Altmarkkreis Salzwedel","l":""},"2":{"n":"Anhalt-Bitterfeld","l":""},"3":{"n":"Borde","l":""},"4":{"n":"Burgenlandkreis","l":""},"5":{"n":"Dessau-Roßlau","l":""},"6":{"n":"Halle","l":""},"7":{"n":"Harz","l":""},"8":{"n":"Jerichower Land","l":""},"9":{"n":"Magdeburg","l":""},"10":{"n":"Mansfeld-Sudharz","l":""},"11":{"n":"Saalekreis","l":""},"12":{"n":"Salzlandkreis","l":""},"13":{"n":"Stendal","l":""},"14":{"n":"Wittenberg","l":""}}
+{
+  "1": {
+    "n": "Magdeburg",
+    "l": "Magdeburg"
+  },
+  "2": {
+    "n": "Halle (Saale)",
+    "l": "Halle (Saale)"
+  },
+  "3": {
+    "n": "Dessau-Roßlau",
+    "l": "Dessau-Roßlau"
+  },
+  "4": {
+    "n": "Wittenberg",
+    "l": "Wittenberg"
+  },
+  "5": {
+    "n": "Bitterfeld-Wolfen",
+    "l": "Bitterfeld-Wolfen"
+  },
+  "6": {
+    "n": "Halberstadt",
+    "l": "Halberstadt"
+  },
+  "7": {
+    "n": "Stendal",
+    "l": "Stendal"
+  },
+  "8": {
+    "n": "Quedlinburg",
+    "l": "Quedlinburg"
+  },
+  "9": {
+    "n": "Merseburg",
+    "l": "Merseburg"
+  },
+  "10": {
+    "n": "Sangerhausen",
+    "l": "Sangerhausen"
+  }
+}

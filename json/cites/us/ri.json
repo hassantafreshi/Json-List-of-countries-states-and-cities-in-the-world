@@ -1,1 +1,42 @@
-{"1":{"n":"Bristol","l":""},"2":{"n":"Kent","l":""},"3":{"n":"Newport","l":""},"4":{"n":"Providence","l":""},"5":{"n":"Washington","l":""}}
+{
+  "1": {
+    "n": "Providence",
+    "l": "Providence"
+  },
+  "2": {
+    "n": "Warwick",
+    "l": "Warwick"
+  },
+  "3": {
+    "n": "Cranston",
+    "l": "Cranston"
+  },
+  "4": {
+    "n": "Pawtucket",
+    "l": "Pawtucket"
+  },
+  "5": {
+    "n": "East Providence",
+    "l": "East Providence"
+  },
+  "6": {
+    "n": "Woonsocket",
+    "l": "Woonsocket"
+  },
+  "7": {
+    "n": "Newport",
+    "l": "Newport"
+  },
+  "8": {
+    "n": "Central Falls",
+    "l": "Central Falls"
+  },
+  "9": {
+    "n": "Westerly",
+    "l": "Westerly"
+  },
+  "10": {
+    "n": "North Providence",
+    "l": "North Providence"
+  }
+}

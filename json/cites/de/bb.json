@@ -1,1 +1,42 @@
-{"1":{"n":"Barnim","l":""},"2":{"n":"Brandenburg an der Havel","l":""},"3":{"n":"Cottbus","l":""},"4":{"n":"Dahme-Spreewald","l":""},"5":{"n":"Elbe-Elster","l":""},"6":{"n":"Frankfurt","l":""},"7":{"n":"Havelland","l":""},"8":{"n":"Markisch-Oderland","l":""},"9":{"n":"Oberhavel","l":""},"10":{"n":"Oberspreewald-Lausitz","l":""},"11":{"n":"Oder-Spree","l":""},"12":{"n":"Ostprignitz-Ruppin","l":""},"13":{"n":"Potsdam","l":""},"14":{"n":"Potsdam-Mittelmark","l":""},"15":{"n":"Prignitz","l":""},"16":{"n":"Spree-Neiße","l":""},"17":{"n":"Teltow-Flaming","l":""},"18":{"n":"Uckermark","l":""}}
+{
+  "1": {
+    "n": "Potsdam",
+    "l": "Potsdam"
+  },
+  "2": {
+    "n": "Cottbus",
+    "l": "Cottbus"
+  },
+  "3": {
+    "n": "Brandenburg an der Havel",
+    "l": "Brandenburg an der Havel"
+  },
+  "4": {
+    "n": "Frankfurt (Oder)",
+    "l": "Frankfurt (Oder)"
+  },
+  "5": {
+    "n": "Oranienburg",
+    "l": "Oranienburg"
+  },
+  "6": {
+    "n": "Eberswalde",
+    "l": "Eberswalde"
+  },
+  "7": {
+    "n": "Bernau bei Berlin",
+    "l": "Bernau bei Berlin"
+  },
+  "8": {
+    "n": "Königs Wusterhausen",
+    "l": "Königs Wusterhausen"
+  },
+  "9": {
+    "n": "Neuruppin",
+    "l": "Neuruppin"
+  },
+  "10": {
+    "n": "Fürstenwalde/Spree",
+    "l": "Fürstenwalde/Spree"
+  }
+}

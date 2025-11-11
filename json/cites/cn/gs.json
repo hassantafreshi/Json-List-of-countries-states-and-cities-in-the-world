@@ -1,1 +1,42 @@
-{"1":{"n":"Baiyin Shi","l":"白银市"},"2":{"n":"Dingxi Shi","l":"定西市"},"3":{"n":"Gannan Zangzu Zizhizhou","l":"甘南藏族自治州"},"4":{"n":"Jiayuguan Shi","l":"嘉峪关市"},"5":{"n":"Jinchang Shi","l":"金昌市"},"6":{"n":"Jiuquan Shi","l":"酒泉市"},"7":{"n":"Lanzhou Shi","l":"兰州市"},"8":{"n":"Linxia Huizu Zizhizhou","l":"临夏回族自治州"},"9":{"n":"Longnan Shi","l":"陇南市"},"10":{"n":"Pingliang Shi","l":"平凉市"},"11":{"n":"Qingyang Shi","l":"庆阳市"},"12":{"n":"Tianshui Shi","l":"天水市"},"13":{"n":"Wuwei Shi","l":"武威市"},"14":{"n":"Zhangye Shi","l":"张掖市"}}
+{
+  "1": {
+    "n": "Lanzhou",
+    "l": "兰州"
+  },
+  "2": {
+    "n": "Tianshui",
+    "l": "天水"
+  },
+  "3": {
+    "n": "Baiyin",
+    "l": "白银"
+  },
+  "4": {
+    "n": "Jiayuguan",
+    "l": "嘉峪关"
+  },
+  "5": {
+    "n": "Jiuquan",
+    "l": "酒泉"
+  },
+  "6": {
+    "n": "Zhangye",
+    "l": "张掖"
+  },
+  "7": {
+    "n": "Wuwei",
+    "l": "武威"
+  },
+  "8": {
+    "n": "Dingxi",
+    "l": "定西"
+  },
+  "9": {
+    "n": "Pingliang",
+    "l": "平凉"
+  },
+  "10": {
+    "n": "Qingyang",
+    "l": "庆阳"
+  }
+}

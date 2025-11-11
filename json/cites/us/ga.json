@@ -1,1 +1,42 @@
-{"1":{"n":"Appling","l":""},"2":{"n":"Atkinson","l":""},"3":{"n":"Bacon","l":""},"4":{"n":"Baker","l":""},"5":{"n":"Baldwin","l":""},"6":{"n":"Banks","l":""},"7":{"n":"Barrow","l":""},"8":{"n":"Bartow","l":""},"9":{"n":"Ben Hill","l":""},"10":{"n":"Berrien","l":""},"11":{"n":"Bibb","l":""},"12":{"n":"Bleckley","l":""},"13":{"n":"Brantley","l":""},"14":{"n":"Brooks","l":""},"15":{"n":"Bryan","l":""},"16":{"n":"Bulloch","l":""},"17":{"n":"Burke","l":""},"18":{"n":"Butts","l":""},"19":{"n":"Calhoun","l":""},"20":{"n":"Camden","l":""},"21":{"n":"Candler","l":""},"22":{"n":"Carroll","l":""},"23":{"n":"Catoosa","l":""},"24":{"n":"Charlton","l":""},"25":{"n":"Chatham","l":""},"26":{"n":"Chattahoochee","l":""},"27":{"n":"Chattooga","l":""},"28":{"n":"Cherokee","l":""},"29":{"n":"Clarke","l":""},"30":{"n":"Clay","l":""},"31":{"n":"Clayton","l":""},"32":{"n":"Clinch","l":""},"33":{"n":"Cobb","l":""},"34":{"n":"Coffee","l":""},"35":{"n":"Colquitt","l":""},"36":{"n":"Columbia","l":""},"37":{"n":"Cook","l":""},"38":{"n":"Coweta","l":""},"39":{"n":"Crawford","l":""},"40":{"n":"Crisp","l":""},"41":{"n":"Dade","l":""},"42":{"n":"Dawson","l":""},"43":{"n":"Decatur","l":""},"44":{"n":"DeKalb","l":""},"45":{"n":"Dodge","l":""},"46":{"n":"Dooly","l":""},"47":{"n":"Dougherty","l":""},"48":{"n":"Douglas","l":""},"49":{"n":"Early","l":""},"50":{"n":"Echols","l":""},"51":{"n":"Effingham","l":""},"52":{"n":"Elbert","l":""},"53":{"n":"Emanuel","l":""},"54":{"n":"Evans","l":""},"55":{"n":"Fannin","l":""},"56":{"n":"Fayette","l":""},"57":{"n":"Floyd","l":""},"58":{"n":"Forsyth","l":""},"59":{"n":"Franklin","l":""},"60":{"n":"Fulton","l":""},"61":{"n":"Gilmer","l":""},"62":{"n":"Glascock","l":""},"63":{"n":"Glynn","l":""},"64":{"n":"Gordon","l":""},"65":{"n":"Grady","l":""},"66":{"n":"Greene","l":""},"67":{"n":"Gwinnett","l":""},"68":{"n":"Habersham","l":""},"69":{"n":"Hall","l":""},"70":{"n":"Hancock","l":""},"71":{"n":"Haralson","l":""},"72":{"n":"Harris","l":""},"73":{"n":"Hart","l":""},"74":{"n":"Heard","l":""},"75":{"n":"Henry","l":""},"76":{"n":"Houston","l":""},"77":{"n":"Irwin","l":""},"78":{"n":"Jackson","l":""},"79":{"n":"Jasper","l":""},"80":{"n":"Jeff Davis","l":""},"81":{"n":"Jefferson","l":""},"82":{"n":"Jenkins","l":""},"83":{"n":"Johnson","l":""},"84":{"n":"Jones","l":""},"85":{"n":"Lamar","l":""},"86":{"n":"Lanier","l":""},"87":{"n":"Laurens","l":""},"88":{"n":"Lee","l":""},"89":{"n":"Liberty","l":""},"90":{"n":"Lincoln","l":""},"91":{"n":"Long","l":""},"92":{"n":"Lowndes","l":""},"93":{"n":"Lumpkin","l":""},"94":{"n":"Macon","l":""},"95":{"n":"Madison","l":""},"96":{"n":"Marion","l":""},"97":{"n":"McDuffie","l":""},"98":{"n":"McIntosh","l":""},"99":{"n":"Meriwether","l":""},"100":{"n":"Miller","l":""},"101":{"n":"Mitchell","l":""},"102":{"n":"Monroe","l":""},"103":{"n":"Montgomery","l":""},"104":{"n":"Morgan","l":""},"105":{"n":"Murray","l":""},"106":{"n":"Muscogee","l":""},"107":{"n":"Newton","l":""},"108":{"n":"Oconee","l":""},"109":{"n":"Oglethorpe","l":""},"110":{"n":"Paulding","l":""},"111":{"n":"Peach","l":""},"112":{"n":"Pickens","l":""},"113":{"n":"Pierce","l":""},"114":{"n":"Pike","l":""},"115":{"n":"Polk","l":""},"116":{"n":"Pulaski","l":""},"117":{"n":"Putnam","l":""},"118":{"n":"Quitman","l":""},"119":{"n":"Rabun","l":""},"120":{"n":"Randolph","l":""},"121":{"n":"Richmond","l":""},"122":{"n":"Rockdale","l":""},"123":{"n":"Schley","l":""},"124":{"n":"Screven","l":""},"125":{"n":"Seminole","l":""},"126":{"n":"Spalding","l":""},"127":{"n":"Stephens","l":""},"128":{"n":"Stewart","l":""},"129":{"n":"Sumter","l":""},"130":{"n":"Talbot","l":""},"131":{"n":"Taliaferro","l":""},"132":{"n":"Tattnall","l":""},"133":{"n":"Taylor","l":""},"134":{"n":"Telfair","l":""},"135":{"n":"Terrell","l":""},"136":{"n":"Thomas","l":""},"137":{"n":"Tift","l":""},"138":{"n":"Toombs","l":""},"139":{"n":"Towns","l":""},"140":{"n":"Treutlen","l":""},"141":{"n":"Troup","l":""},"142":{"n":"Turner","l":""},"143":{"n":"Twiggs","l":""},"144":{"n":"Union","l":""},"145":{"n":"Upson","l":""},"146":{"n":"Walker","l":""},"147":{"n":"Walton","l":""},"148":{"n":"Ware","l":""},"149":{"n":"Warren","l":""},"150":{"n":"Washington","l":""},"151":{"n":"Wayne","l":""},"152":{"n":"Webster","l":""},"153":{"n":"Wheeler","l":""},"154":{"n":"White","l":""},"155":{"n":"Whitfield","l":""},"156":{"n":"Wilcox","l":""},"157":{"n":"Wilkes","l":""},"158":{"n":"Wilkinson","l":""},"159":{"n":"Worth","l":""}}
+{
+  "1": {
+    "n": "Atlanta",
+    "l": "Atlanta"
+  },
+  "2": {
+    "n": "Augusta",
+    "l": "Augusta"
+  },
+  "3": {
+    "n": "Columbus",
+    "l": "Columbus"
+  },
+  "4": {
+    "n": "Macon",
+    "l": "Macon"
+  },
+  "5": {
+    "n": "Savannah",
+    "l": "Savannah"
+  },
+  "6": {
+    "n": "Athens",
+    "l": "Athens"
+  },
+  "7": {
+    "n": "Sandy Springs",
+    "l": "Sandy Springs"
+  },
+  "8": {
+    "n": "Roswell",
+    "l": "Roswell"
+  },
+  "9": {
+    "n": "Johns Creek",
+    "l": "Johns Creek"
+  },
+  "10": {
+    "n": "Warner Robins",
+    "l": "Warner Robins"
+  }
+}

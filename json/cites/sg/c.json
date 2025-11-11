@@ -1,1 +1,42 @@
-{"1":{"n":"Bishan","l":""},"2":{"n":"Bukit Merah","l":""},"3":{"n":"Bukit Timah","l":""},"4":{"n":"11 planning areas of the Central Area","l":""},"5":{"n":"Geylang","l":""},"6":{"n":"Kallang","l":""},"7":{"n":"Marine Parade","l":""},"8":{"n":"Novena","l":""},"9":{"n":"Queenstown","l":""},"10":{"n":"Southern Islands","l":""},"11":{"n":"Tanglin","l":""},"12":{"n":"Toa Payoh","l":""}}
+{
+  "1": {
+    "n": "Downtown Core",
+    "l": "Downtown Core"
+  },
+  "2": {
+    "n": "Orchard",
+    "l": "Orchard"
+  },
+  "3": {
+    "n": "Rochor",
+    "l": "Rochor"
+  },
+  "4": {
+    "n": "Newton",
+    "l": "Newton"
+  },
+  "5": {
+    "n": "Tanglin",
+    "l": "Tanglin"
+  },
+  "6": {
+    "n": "Kallang",
+    "l": "Kallang"
+  },
+  "7": {
+    "n": "Geylang",
+    "l": "Geylang"
+  },
+  "8": {
+    "n": "Toa Payoh",
+    "l": "Toa Payoh"
+  },
+  "9": {
+    "n": "Queenstown",
+    "l": "Queenstown"
+  },
+  "10": {
+    "n": "Bukit Merah",
+    "l": "Bukit Merah"
+  }
+}

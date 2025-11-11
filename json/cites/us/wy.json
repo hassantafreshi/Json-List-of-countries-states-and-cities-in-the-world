@@ -1,1 +1,42 @@
-{"1":{"n":"Albany","l":""},"2":{"n":"Big Horn","l":""},"3":{"n":"Campbell","l":""},"4":{"n":"Carbon","l":""},"5":{"n":"Converse","l":""},"6":{"n":"Crook","l":""},"7":{"n":"Fremont","l":""},"8":{"n":"Goshen","l":""},"9":{"n":"Hot Springs","l":""},"10":{"n":"Johnson","l":""},"11":{"n":"Laramie","l":""},"12":{"n":"Lincoln","l":""},"13":{"n":"Natrona","l":""},"14":{"n":"Niobrara","l":""},"15":{"n":"Park","l":""},"16":{"n":"Platte","l":""},"17":{"n":"Sheridan","l":""},"18":{"n":"Sublette","l":""},"19":{"n":"Sweetwater","l":""},"20":{"n":"Teton","l":""},"21":{"n":"Uinta","l":""},"22":{"n":"Washakie","l":""},"23":{"n":"Weston","l":""}}
+{
+  "1": {
+    "n": "Cheyenne",
+    "l": "Cheyenne"
+  },
+  "2": {
+    "n": "Casper",
+    "l": "Casper"
+  },
+  "3": {
+    "n": "Laramie",
+    "l": "Laramie"
+  },
+  "4": {
+    "n": "Gillette",
+    "l": "Gillette"
+  },
+  "5": {
+    "n": "Rock Springs",
+    "l": "Rock Springs"
+  },
+  "6": {
+    "n": "Sheridan",
+    "l": "Sheridan"
+  },
+  "7": {
+    "n": "Green River",
+    "l": "Green River"
+  },
+  "8": {
+    "n": "Evanston",
+    "l": "Evanston"
+  },
+  "9": {
+    "n": "Riverton",
+    "l": "Riverton"
+  },
+  "10": {
+    "n": "Jackson",
+    "l": "Jackson"
+  }
+}

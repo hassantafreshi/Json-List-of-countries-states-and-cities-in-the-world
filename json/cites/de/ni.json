@@ -1,1 +1,42 @@
-{"1":{"n":"Ammerland","l":""},"2":{"n":"Aurich","l":""},"3":{"n":"Braunschweig","l":""},"4":{"n":"Celle","l":""},"5":{"n":"Cloppenburg","l":""},"6":{"n":"Cuxhaven","l":""},"7":{"n":"Delmenhorst","l":""},"8":{"n":"Diepholz","l":""},"9":{"n":"Emden","l":""},"10":{"n":"Emsland","l":""},"11":{"n":"Friesland","l":""},"12":{"n":"Gifhorn","l":""},"13":{"n":"Goslar","l":""},"14":{"n":"Gottingen","l":""},"15":{"n":"Grafschaft Bentheim","l":""},"16":{"n":"Hameln-Pyrmont","l":""},"17":{"n":"Harburg","l":""},"18":{"n":"Heidekreis","l":""},"19":{"n":"Helmstedt","l":""},"20":{"n":"Hildesheim","l":""},"21":{"n":"Holzminden","l":""},"22":{"n":"Leer","l":""},"23":{"n":"Luchow-Dannenberg","l":""},"24":{"n":"Luneburg","l":""},"25":{"n":"Nienburg","l":""},"26":{"n":"Northeim","l":""},"27":{"n":"Oldenburg","l":""},"28":{"n":"Oldenburg Stadt","l":""},"29":{"n":"Osnabruck","l":""},"30":{"n":"Osnabruck Stadt","l":""},"31":{"n":"Osterholz","l":""},"32":{"n":"Peine","l":""},"33":{"n":"Region Hannover","l":""},"34":{"n":"Rotenburg","l":""},"35":{"n":"Salzgitter","l":""},"36":{"n":"Schaumburg","l":""},"37":{"n":"Stade","l":""},"38":{"n":"Uelzen","l":""},"39":{"n":"Vechta","l":""},"40":{"n":"Verden","l":""},"41":{"n":"Wesermarsch","l":""},"42":{"n":"Wilhelmshaven","l":""},"43":{"n":"Wittmund","l":""},"44":{"n":"Wolfenbuttel","l":""},"45":{"n":"Wolfsburg","l":""}}
+{
+  "1": {
+    "n": "Hanover",
+    "l": "Hannover"
+  },
+  "2": {
+    "n": "Braunschweig",
+    "l": "Braunschweig"
+  },
+  "3": {
+    "n": "Osnabrück",
+    "l": "Osnabrück"
+  },
+  "4": {
+    "n": "Oldenburg",
+    "l": "Oldenburg"
+  },
+  "5": {
+    "n": "Wolfsburg",
+    "l": "Wolfsburg"
+  },
+  "6": {
+    "n": "Göttingen",
+    "l": "Göttingen"
+  },
+  "7": {
+    "n": "Hildesheim",
+    "l": "Hildesheim"
+  },
+  "8": {
+    "n": "Salzgitter",
+    "l": "Salzgitter"
+  },
+  "9": {
+    "n": "Lüneburg",
+    "l": "Lüneburg"
+  },
+  "10": {
+    "n": "Celle",
+    "l": "Celle"
+  }
+}

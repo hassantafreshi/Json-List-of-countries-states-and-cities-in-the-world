@@ -1,1 +1,42 @@
-{"1":{"n":"Charlottetown","l":""},"2":{"n":"Summerside","l":""}}
+{
+  "1": {
+    "n": "Charlottetown",
+    "l": "Charlottetown"
+  },
+  "2": {
+    "n": "Summerside",
+    "l": "Summerside"
+  },
+  "3": {
+    "n": "Stratford",
+    "l": "Stratford"
+  },
+  "4": {
+    "n": "Cornwall",
+    "l": "Cornwall"
+  },
+  "5": {
+    "n": "Montague",
+    "l": "Montague"
+  },
+  "6": {
+    "n": "Kensington",
+    "l": "Kensington"
+  },
+  "7": {
+    "n": "Souris",
+    "l": "Souris"
+  },
+  "8": {
+    "n": "Alberton",
+    "l": "Alberton"
+  },
+  "9": {
+    "n": "Georgetown",
+    "l": "Georgetown"
+  },
+  "10": {
+    "n": "Tignish",
+    "l": "Tignish"
+  }
+}

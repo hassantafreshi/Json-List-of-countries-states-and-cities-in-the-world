@@ -1,1 +1,67 @@
-{"ALTA":{"n":"Alberta","l":"LAlberta","s":"ALTA"},"BC":{"n":"British Columbia","l":"La Colombie-Britannique","s":"BC"},"MAN":{"n":"Manitoba","l":"Le Manitoba","s":"MAN"},"NB":{"n":"New Brunswick","l":"Le Nouveau-Brunswick","s":"NB"},"NL":{"n":"Newfoundland and Labrador","l":"La Terre-Neuve-et-Labrador","s":"NL"},"NWT":{"n":"Northwest Territories","l":"Les Territoires du Nord-Ouest","s":"NWT"},"NS":{"n":"Nova Scotia","l":"La Nouvelle-Écosse","s":"NS"},"NVT":{"n":"Nunavut","l":"Le Nunavut","s":"NVT"},"ONT":{"n":"Ontario","l":"LOntario","s":"ONT"},"PEI":{"n":"Prince Edward Island","l":"Île-du-Prince-Édouard","s":"PEI"},"QUE":{"n":"Quebec","l":"Le Québec","s":"QUE"},"SASK":{"n":"Saskatchewan","l":"La Saskatchewan","s":"SASK"},"YT":{"n":"Yukon","l":"Le Yukon ","s":"YT"}}
+{
+  "ALTA": {
+    "l": "Alberta",
+    "n": "Alberta",
+    "s": "ALTA"
+  },
+  "BC": {
+    "l": "Colombie-Britannique",
+    "n": "British Columbia",
+    "s": "BC"
+  },
+  "MAN": {
+    "l": "Manitoba",
+    "n": "Manitoba",
+    "s": "MAN"
+  },
+  "NB": {
+    "l": "Nouveau-Brunswick",
+    "n": "New Brunswick",
+    "s": "NB"
+  },
+  "NL": {
+    "l": "Terre-Neuve-et-Labrador",
+    "n": "Newfoundland and Labrador",
+    "s": "NL"
+  },
+  "NS": {
+    "l": "Nouvelle-Écosse",
+    "n": "Nova Scotia",
+    "s": "NS"
+  },
+  "NVT": {
+    "l": "Nunavut",
+    "n": "Nunavut",
+    "s": "NVT"
+  },
+  "NWT": {
+    "l": "Territoires du Nord-Ouest",
+    "n": "Northwest Territories",
+    "s": "NWT"
+  },
+  "ONT": {
+    "l": "Ontario",
+    "n": "Ontario",
+    "s": "ONT"
+  },
+  "PEI": {
+    "l": "Île-du-Prince-Édouard",
+    "n": "Prince Edward Island",
+    "s": "PEI"
+  },
+  "QUE": {
+    "l": "Québec",
+    "n": "Quebec",
+    "s": "QUE"
+  },
+  "SASK": {
+    "l": "Saskatchewan",
+    "n": "Saskatchewan",
+    "s": "SASK"
+  },
+  "YT": {
+    "l": "Yukon",
+    "n": "Yukon",
+    "s": "YT"
+  }
+}

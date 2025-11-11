@@ -1,1 +1,42 @@
-{"1":{"n":"Baise Shi","l":"百色市"},"2":{"n":"Beihai Shi","l":"北海市"},"3":{"n":"Chongzuo Shi","l":"崇左市"},"4":{"n":"Fangchenggang Shi","l":"防城港市"},"5":{"n":"Guigang Shi","l":"贵港市"},"6":{"n":"Guilin Shi","l":"桂林市"},"7":{"n":"Hechi Shi","l":"河池市"},"8":{"n":"Hezhou Shi","l":"贺州市"},"9":{"n":"Laibin Shi","l":"来宾市"},"10":{"n":"Liuzhou Shi","l":"柳州市"},"11":{"n":"Nanning Shi","l":"南宁市"},"12":{"n":"Qinzhou Shi","l":"钦州市"},"13":{"n":"Wuzhou Shi","l":"梧州市"},"14":{"n":"Yulin Shi","l":"玉林市"}}
+{
+  "1": {
+    "n": "Nanning",
+    "l": "南宁"
+  },
+  "2": {
+    "n": "Liuzhou",
+    "l": "柳州"
+  },
+  "3": {
+    "n": "Guilin",
+    "l": "桂林"
+  },
+  "4": {
+    "n": "Wuzhou",
+    "l": "梧州"
+  },
+  "5": {
+    "n": "Beihai",
+    "l": "北海"
+  },
+  "6": {
+    "n": "Fangchenggang",
+    "l": "防城港"
+  },
+  "7": {
+    "n": "Qinzhou",
+    "l": "钦州"
+  },
+  "8": {
+    "n": "Guigang",
+    "l": "贵港"
+  },
+  "9": {
+    "n": "Yulin",
+    "l": "玉林"
+  },
+  "10": {
+    "n": "Baise",
+    "l": "百色"
+  }
+}

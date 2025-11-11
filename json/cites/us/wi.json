@@ -1,1 +1,42 @@
-{"1":{"n":"Adams","l":""},"2":{"n":"Ashland","l":""},"3":{"n":"Barron","l":""},"4":{"n":"Bayfield","l":""},"5":{"n":"Brown","l":""},"6":{"n":"Buffalo","l":""},"7":{"n":"Burnett","l":""},"8":{"n":"Calumet","l":""},"9":{"n":"Chippewa","l":""},"10":{"n":"Clark","l":""},"11":{"n":"Columbia","l":""},"12":{"n":"Crawford","l":""},"13":{"n":"Dane","l":""},"14":{"n":"Dodge","l":""},"15":{"n":"Door","l":""},"16":{"n":"Douglas","l":""},"17":{"n":"Dunn","l":""},"18":{"n":"Eau Claire","l":""},"19":{"n":"Florence","l":""},"20":{"n":"Fond du Lac","l":""},"21":{"n":"Forest","l":""},"22":{"n":"Grant","l":""},"23":{"n":"Green","l":""},"24":{"n":"Green Lake","l":""},"25":{"n":"Iowa","l":""},"26":{"n":"Iron","l":""},"27":{"n":"Jackson","l":""},"28":{"n":"Jefferson","l":""},"29":{"n":"Juneau","l":""},"30":{"n":"Kenosha","l":""},"31":{"n":"Kewaunee","l":""},"32":{"n":"La Crosse","l":""},"33":{"n":"Lafayette","l":""},"34":{"n":"Langlade","l":""},"35":{"n":"Lincoln","l":""},"36":{"n":"Manitowoc","l":""},"37":{"n":"Marathon","l":""},"38":{"n":"Marinette","l":""},"39":{"n":"Marquette","l":""},"40":{"n":"Menominee","l":""},"41":{"n":"Milwaukee","l":""},"42":{"n":"Monroe","l":""},"43":{"n":"Oconto","l":""},"44":{"n":"Oneida","l":""},"45":{"n":"Outagamie","l":""},"46":{"n":"Ozaukee","l":""},"47":{"n":"Pepin","l":""},"48":{"n":"Pierce","l":""},"49":{"n":"Polk","l":""},"50":{"n":"Portage","l":""},"51":{"n":"Price","l":""},"52":{"n":"Racine","l":""},"53":{"n":"Richland","l":""},"54":{"n":"Rock","l":""},"55":{"n":"Rusk","l":""},"56":{"n":"Sauk","l":""},"57":{"n":"Sawyer","l":""},"58":{"n":"Shawano","l":""},"59":{"n":"Sheboygan","l":""},"60":{"n":"St. Croix","l":""},"61":{"n":"Taylor","l":""},"62":{"n":"Trempealeau","l":""},"63":{"n":"Vernon","l":""},"64":{"n":"Vilas","l":""},"65":{"n":"Walworth","l":""},"66":{"n":"Washburn","l":""},"67":{"n":"Washington","l":""},"68":{"n":"Waukesha","l":""},"69":{"n":"Waupaca","l":""},"70":{"n":"Waushara","l":""},"71":{"n":"Winnebago","l":""},"72":{"n":"Wood","l":""}}
+{
+  "1": {
+    "n": "Milwaukee",
+    "l": "Milwaukee"
+  },
+  "2": {
+    "n": "Madison",
+    "l": "Madison"
+  },
+  "3": {
+    "n": "Green Bay",
+    "l": "Green Bay"
+  },
+  "4": {
+    "n": "Kenosha",
+    "l": "Kenosha"
+  },
+  "5": {
+    "n": "Racine",
+    "l": "Racine"
+  },
+  "6": {
+    "n": "Appleton",
+    "l": "Appleton"
+  },
+  "7": {
+    "n": "Waukesha",
+    "l": "Waukesha"
+  },
+  "8": {
+    "n": "Eau Claire",
+    "l": "Eau Claire"
+  },
+  "9": {
+    "n": "Oshkosh",
+    "l": "Oshkosh"
+  },
+  "10": {
+    "n": "Janesville",
+    "l": "Janesville"
+  }
+}

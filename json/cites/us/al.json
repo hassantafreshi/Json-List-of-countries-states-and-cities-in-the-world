@@ -1,1 +1,42 @@
-{"1":{"n":"Autauga","l":""},"2":{"n":"Baldwin","l":""},"3":{"n":"Barbour","l":""},"4":{"n":"Bibb","l":""},"5":{"n":"Blount","l":""},"6":{"n":"Bullock","l":""},"7":{"n":"Butler","l":""},"8":{"n":"Calhoun","l":""},"9":{"n":"Chambers","l":""},"10":{"n":"Cherokee","l":""},"11":{"n":"Chilton","l":""},"12":{"n":"Choctaw","l":""},"13":{"n":"Clarke","l":""},"14":{"n":"Clay","l":""},"15":{"n":"Cleburne","l":""},"16":{"n":"Coffee","l":""},"17":{"n":"Colbert","l":""},"18":{"n":"Conecuh","l":""},"19":{"n":"Coosa","l":""},"20":{"n":"Covington","l":""},"21":{"n":"Crenshaw","l":""},"22":{"n":"Cullman","l":""},"23":{"n":"Dale","l":""},"24":{"n":"Dallas","l":""},"25":{"n":"DeKalb","l":""},"26":{"n":"Elmore","l":""},"27":{"n":"Escambia","l":""},"28":{"n":"Etowah","l":""},"29":{"n":"Fayette","l":""},"30":{"n":"Franklin","l":""},"31":{"n":"Geneva","l":""},"32":{"n":"Greene","l":""},"33":{"n":"Hale","l":""},"34":{"n":"Henry","l":""},"35":{"n":"Houston","l":""},"36":{"n":"Jackson","l":""},"37":{"n":"Jefferson","l":""},"38":{"n":"Lamar","l":""},"39":{"n":"Lauderdale","l":""},"40":{"n":"Lawrence","l":""},"41":{"n":"Lee","l":""},"42":{"n":"Limestone","l":""},"43":{"n":"Lowndes","l":""},"44":{"n":"Macon","l":""},"45":{"n":"Madison","l":""},"46":{"n":"Marengo","l":""},"47":{"n":"Marion","l":""},"48":{"n":"Marshall","l":""},"49":{"n":"Mobile","l":""},"50":{"n":"Monroe","l":""},"51":{"n":"Montgomery","l":""},"52":{"n":"Morgan","l":""},"53":{"n":"Perry","l":""},"54":{"n":"Pickens","l":""},"55":{"n":"Pike","l":""},"56":{"n":"Randolph","l":""},"57":{"n":"Russell","l":""},"58":{"n":"Shelby","l":""},"59":{"n":"St. Clair","l":""},"60":{"n":"Sumter","l":""},"61":{"n":"Talladega","l":""},"62":{"n":"Tallapoosa","l":""},"63":{"n":"Tuscaloosa","l":""},"64":{"n":"Walker","l":""},"65":{"n":"Washington","l":""},"66":{"n":"Wilcox","l":""},"67":{"n":"Winston","l":""}}
+{
+  "1": {
+    "n": "Birmingham",
+    "l": "Birmingham"
+  },
+  "2": {
+    "n": "Montgomery",
+    "l": "Montgomery"
+  },
+  "3": {
+    "n": "Mobile",
+    "l": "Mobile"
+  },
+  "4": {
+    "n": "Huntsville",
+    "l": "Huntsville"
+  },
+  "5": {
+    "n": "Tuscaloosa",
+    "l": "Tuscaloosa"
+  },
+  "6": {
+    "n": "Hoover",
+    "l": "Hoover"
+  },
+  "7": {
+    "n": "Dothan",
+    "l": "Dothan"
+  },
+  "8": {
+    "n": "Auburn",
+    "l": "Auburn"
+  },
+  "9": {
+    "n": "Decatur",
+    "l": "Decatur"
+  },
+  "10": {
+    "n": "Florence",
+    "l": "Florence"
+  }
+}

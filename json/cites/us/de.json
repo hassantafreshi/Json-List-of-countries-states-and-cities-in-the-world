@@ -1,1 +1,42 @@
-{"1":{"n":"Kent","l":""},"2":{"n":"New Castle","l":""},"3":{"n":"Sussex","l":""}}
+{
+  "1": {
+    "n": "Wilmington",
+    "l": "Wilmington"
+  },
+  "2": {
+    "n": "Dover",
+    "l": "Dover"
+  },
+  "3": {
+    "n": "Newark",
+    "l": "Newark"
+  },
+  "4": {
+    "n": "Middletown",
+    "l": "Middletown"
+  },
+  "5": {
+    "n": "Smyrna",
+    "l": "Smyrna"
+  },
+  "6": {
+    "n": "Milford",
+    "l": "Milford"
+  },
+  "7": {
+    "n": "Seaford",
+    "l": "Seaford"
+  },
+  "8": {
+    "n": "Georgetown",
+    "l": "Georgetown"
+  },
+  "9": {
+    "n": "Elsmere",
+    "l": "Elsmere"
+  },
+  "10": {
+    "n": "New Castle",
+    "l": "New Castle"
+  }
+}

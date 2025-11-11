@@ -1,1 +1,42 @@
-{"1":{"n":"Abbeville","l":""},"2":{"n":"Aiken","l":""},"3":{"n":"Allendale","l":""},"4":{"n":"Anderson","l":""},"5":{"n":"Bamberg","l":""},"6":{"n":"Barnwell","l":""},"7":{"n":"Beaufort","l":""},"8":{"n":"Berkeley","l":""},"9":{"n":"Calhoun","l":""},"10":{"n":"Charleston","l":""},"11":{"n":"Cherokee","l":""},"12":{"n":"Chester","l":""},"13":{"n":"Chesterfield","l":""},"14":{"n":"Clarendon","l":""},"15":{"n":"Colleton","l":""},"16":{"n":"Darlington","l":""},"17":{"n":"Dillon","l":""},"18":{"n":"Dorchester","l":""},"19":{"n":"Edgefield","l":""},"20":{"n":"Fairfield","l":""},"21":{"n":"Florence","l":""},"22":{"n":"Georgetown","l":""},"23":{"n":"Greenville","l":""},"24":{"n":"Greenwood","l":""},"25":{"n":"Hampton","l":""},"26":{"n":"Horry","l":""},"27":{"n":"Jasper","l":""},"28":{"n":"Kershaw","l":""},"29":{"n":"Lancaster","l":""},"30":{"n":"Laurens","l":""},"31":{"n":"Lee","l":""},"32":{"n":"Lexington","l":""},"33":{"n":"Marion","l":""},"34":{"n":"Marlboro","l":""},"35":{"n":"McCormick","l":""},"36":{"n":"Newberry","l":""},"37":{"n":"Oconee","l":""},"38":{"n":"Orangeburg","l":""},"39":{"n":"Pickens","l":""},"40":{"n":"Richland","l":""},"41":{"n":"Saluda","l":""},"42":{"n":"Spartanburg","l":""},"43":{"n":"Sumter","l":""},"44":{"n":"Union","l":""},"45":{"n":"Williamsburg","l":""},"46":{"n":"York","l":""}}
+{
+  "1": {
+    "n": "Columbia",
+    "l": "Columbia"
+  },
+  "2": {
+    "n": "Charleston",
+    "l": "Charleston"
+  },
+  "3": {
+    "n": "North Charleston",
+    "l": "North Charleston"
+  },
+  "4": {
+    "n": "Mount Pleasant",
+    "l": "Mount Pleasant"
+  },
+  "5": {
+    "n": "Rock Hill",
+    "l": "Rock Hill"
+  },
+  "6": {
+    "n": "Greenville",
+    "l": "Greenville"
+  },
+  "7": {
+    "n": "Summerville",
+    "l": "Summerville"
+  },
+  "8": {
+    "n": "Sumter",
+    "l": "Sumter"
+  },
+  "9": {
+    "n": "Hilton Head Island",
+    "l": "Hilton Head Island"
+  },
+  "10": {
+    "n": "Spartanburg",
+    "l": "Spartanburg"
+  }
+}

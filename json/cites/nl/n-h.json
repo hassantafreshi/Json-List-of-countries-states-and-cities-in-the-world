@@ -1,1 +1,42 @@
-{"1":{"n":"Aalsmeer","l":""},"2":{"n":"Alkmaar","l":""},"3":{"n":"Amstelveen","l":""},"4":{"n":"Amsterdam","l":""},"5":{"n":"Bergen","l":""},"6":{"n":"Beverwijk","l":""},"7":{"n":"Blaricum","l":""},"8":{"n":"Bloemendaal","l":""},"9":{"n":"Castricum","l":""},"10":{"n":"Den Helder","l":""},"11":{"n":"Diemen","l":""},"12":{"n":"Dijk en Waard","l":""},"13":{"n":"Drechterland","l":""},"14":{"n":"Edam-Volendam","l":""},"15":{"n":"Enkhuizen","l":""},"16":{"n":"Gooise Meren","l":""},"17":{"n":"Haarlem","l":""},"18":{"n":"Haarlemmermeer","l":""},"19":{"n":"Heemskerk","l":""},"20":{"n":"Heemstede","l":""},"21":{"n":"Heiloo","l":""},"22":{"n":"Hilversum","l":""},"23":{"n":"Hollands Kroon","l":""},"24":{"n":"Hoorn","l":""},"25":{"n":"Huizen","l":""},"26":{"n":"Koggenland","l":""},"27":{"n":"Landsmeer","l":""},"28":{"n":"Laren","l":""},"29":{"n":"Medemblik","l":""},"30":{"n":"Oostzaan","l":""},"31":{"n":"Opmeer","l":""},"32":{"n":"Ouder-Amstel","l":""},"33":{"n":"Purmerend","l":""},"34":{"n":"Schagen","l":""},"35":{"n":"Stede Broec","l":""},"36":{"n":"Texel","l":""},"37":{"n":"Uitgeest","l":""},"38":{"n":"Uithoorn","l":""},"39":{"n":"Velsen","l":""},"40":{"n":"Waterland","l":""},"41":{"n":"Wijdemeren","l":""},"42":{"n":"Wormerland","l":""},"43":{"n":"Zaanstad","l":""},"44":{"n":"Zandvoort","l":""}}
+{
+  "1": {
+    "n": "Amsterdam",
+    "l": "Amsterdam"
+  },
+  "2": {
+    "n": "Haarlem",
+    "l": "Haarlem"
+  },
+  "3": {
+    "n": "Zaanstad",
+    "l": "Zaanstad"
+  },
+  "4": {
+    "n": "Alkmaar",
+    "l": "Alkmaar"
+  },
+  "5": {
+    "n": "Amstelveen",
+    "l": "Amstelveen"
+  },
+  "6": {
+    "n": "Haarlemmermeer",
+    "l": "Haarlemmermeer"
+  },
+  "7": {
+    "n": "Hilversum",
+    "l": "Hilversum"
+  },
+  "8": {
+    "n": "Purmerend",
+    "l": "Purmerend"
+  },
+  "9": {
+    "n": "Hoorn",
+    "l": "Hoorn"
+  },
+  "10": {
+    "n": "Den Helder",
+    "l": "Den Helder"
+  }
+}

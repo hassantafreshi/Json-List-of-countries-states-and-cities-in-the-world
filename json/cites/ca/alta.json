@@ -1,1 +1,42 @@
-{"1":{"n":"Brooks","l":""},"2":{"n":"Calgary","l":""},"3":{"n":"Camrose","l":""},"4":{"n":"Canmore","l":""},"5":{"n":"Cold Lake","l":""},"6":{"n":"Edmonton","l":""},"7":{"n":"Grande Prairie","l":""},"8":{"n":"High River","l":""},"9":{"n":"Lacombe","l":""},"10":{"n":"Lethbridge","l":""},"11":{"n":"Lloydminster","l":""},"12":{"n":"Medicine Hat","l":""},"13":{"n":"Okotoks","l":""},"14":{"n":"Red Deer","l":""},"15":{"n":"Strathmore","l":""},"16":{"n":"Sylvan Lake","l":""},"17":{"n":"Wetaskiwin","l":""},"18":{"n":"Wood Buffalo","l":""}}
+{
+  "1": {
+    "n": "Calgary",
+    "l": "Calgary"
+  },
+  "2": {
+    "n": "Edmonton",
+    "l": "Edmonton"
+  },
+  "3": {
+    "n": "Red Deer",
+    "l": "Red Deer"
+  },
+  "4": {
+    "n": "Lethbridge",
+    "l": "Lethbridge"
+  },
+  "5": {
+    "n": "St. Albert",
+    "l": "St. Albert"
+  },
+  "6": {
+    "n": "Medicine Hat",
+    "l": "Medicine Hat"
+  },
+  "7": {
+    "n": "Grande Prairie",
+    "l": "Grande Prairie"
+  },
+  "8": {
+    "n": "Airdrie",
+    "l": "Airdrie"
+  },
+  "9": {
+    "n": "Spruce Grove",
+    "l": "Spruce Grove"
+  },
+  "10": {
+    "n": "Fort McMurray",
+    "l": "Fort McMurray"
+  }
+}

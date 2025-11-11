@@ -1,1 +1,42 @@
-{"1":{"n":"Bathurst","l":""},"2":{"n":"Campbellton","l":""},"3":{"n":"Edmundston","l":""},"4":{"n":"Fredericton","l":""},"5":{"n":"Miramichi","l":""},"6":{"n":"Moncton","l":""},"7":{"n":"Saint John","l":""}}
+{
+  "1": {
+    "n": "Moncton",
+    "l": "Moncton"
+  },
+  "2": {
+    "n": "Saint John",
+    "l": "Saint John"
+  },
+  "3": {
+    "n": "Fredericton",
+    "l": "Fredericton"
+  },
+  "4": {
+    "n": "Dieppe",
+    "l": "Dieppe"
+  },
+  "5": {
+    "n": "Miramichi",
+    "l": "Miramichi"
+  },
+  "6": {
+    "n": "Edmundston",
+    "l": "Edmundston"
+  },
+  "7": {
+    "n": "Bathurst",
+    "l": "Bathurst"
+  },
+  "8": {
+    "n": "Riverview",
+    "l": "Riverview"
+  },
+  "9": {
+    "n": "Oromocto",
+    "l": "Oromocto"
+  },
+  "10": {
+    "n": "Campbellton",
+    "l": "Campbellton"
+  }
+}

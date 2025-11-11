@@ -1,1 +1,42 @@
-{"1":{"n":"Adair","l":""},"2":{"n":"Andrew","l":""},"3":{"n":"Atchison","l":""},"4":{"n":"Audrain","l":""},"5":{"n":"Barry","l":""},"6":{"n":"Barton","l":""},"7":{"n":"Bates","l":""},"8":{"n":"Benton","l":""},"9":{"n":"Bollinger","l":""},"10":{"n":"Boone","l":""},"11":{"n":"Buchanan","l":""},"12":{"n":"Butler","l":""},"13":{"n":"Caldwell","l":""},"14":{"n":"Callaway","l":""},"15":{"n":"Camden","l":""},"16":{"n":"Cape Girardeau","l":""},"17":{"n":"Carroll","l":""},"18":{"n":"Carter","l":""},"19":{"n":"Cass","l":""},"20":{"n":"Cedar","l":""},"21":{"n":"Chariton","l":""},"22":{"n":"Christian","l":""},"23":{"n":"Clark","l":""},"24":{"n":"Clay","l":""},"25":{"n":"Clinton","l":""},"26":{"n":"Cole","l":""},"27":{"n":"Cooper","l":""},"28":{"n":"Crawford","l":""},"29":{"n":"Dade","l":""},"30":{"n":"Dallas","l":""},"31":{"n":"Daviess","l":""},"32":{"n":"DeKalb","l":""},"33":{"n":"Dent","l":""},"34":{"n":"Douglas","l":""},"35":{"n":"Dunklin","l":""},"36":{"n":"Franklin","l":""},"37":{"n":"Gasconade","l":""},"38":{"n":"Gentry","l":""},"39":{"n":"Greene","l":""},"40":{"n":"Grundy","l":""},"41":{"n":"Harrison","l":""},"42":{"n":"Henry","l":""},"43":{"n":"Hickory","l":""},"44":{"n":"Holt","l":""},"45":{"n":"Howard","l":""},"46":{"n":"Howell","l":""},"47":{"n":"Iron","l":""},"48":{"n":"Jackson","l":""},"49":{"n":"Jasper","l":""},"50":{"n":"Jefferson","l":""},"51":{"n":"Johnson","l":""},"52":{"n":"Knox","l":""},"53":{"n":"Laclede","l":""},"54":{"n":"Lafayette","l":""},"55":{"n":"Lawrence","l":""},"56":{"n":"Lewis","l":""},"57":{"n":"Lincoln","l":""},"58":{"n":"Linn","l":""},"59":{"n":"Livingston","l":""},"60":{"n":"Macon","l":""},"61":{"n":"Madison","l":""},"62":{"n":"Maries","l":""},"63":{"n":"Marion","l":""},"64":{"n":"McDonald","l":""},"65":{"n":"Mercer","l":""},"66":{"n":"Miller","l":""},"67":{"n":"Mississippi","l":""},"68":{"n":"Moniteau","l":""},"69":{"n":"Monroe","l":""},"70":{"n":"Montgomery","l":""},"71":{"n":"Morgan","l":""},"72":{"n":"New Madrid","l":""},"73":{"n":"Newton","l":""},"74":{"n":"Nodaway","l":""},"75":{"n":"Oregon","l":""},"76":{"n":"Osage","l":""},"77":{"n":"Ozark","l":""},"78":{"n":"Pemiscot","l":""},"79":{"n":"Perry","l":""},"80":{"n":"Pettis","l":""},"81":{"n":"Phelps","l":""},"82":{"n":"Pike","l":""},"83":{"n":"Platte","l":""},"84":{"n":"Polk","l":""},"85":{"n":"Pulaski","l":""},"86":{"n":"Putnam","l":""},"87":{"n":"Ralls","l":""},"88":{"n":"Randolph","l":""},"89":{"n":"Ray","l":""},"90":{"n":"Reynolds","l":""},"91":{"n":"Ripley","l":""},"92":{"n":"Saline","l":""},"93":{"n":"Schuyler","l":""},"94":{"n":"Scotland","l":""},"95":{"n":"Scott","l":""},"96":{"n":"Shannon","l":""},"97":{"n":"Shelby","l":""},"98":{"n":"St. Charles","l":""},"99":{"n":"St. Clair","l":""},"100":{"n":"Ste. Genevieve","l":""},"101":{"n":"St. Francois","l":""},"102":{"n":"St. Louis","l":""},"103":{"n":"St. Louis","l":""},"104":{"n":"Stoddard","l":""},"105":{"n":"Stone","l":""},"106":{"n":"Sullivan","l":""},"107":{"n":"Taney","l":""},"108":{"n":"Texas","l":""},"109":{"n":"Vernon","l":""},"110":{"n":"Warren","l":""},"111":{"n":"Washington","l":""},"112":{"n":"Wayne","l":""},"113":{"n":"Webster","l":""},"114":{"n":"Worth","l":""},"115":{"n":"Wright","l":""}}
+{
+  "1": {
+    "n": "Kansas City",
+    "l": "Kansas City"
+  },
+  "2": {
+    "n": "St. Louis",
+    "l": "St. Louis"
+  },
+  "3": {
+    "n": "Springfield",
+    "l": "Springfield"
+  },
+  "4": {
+    "n": "Columbia",
+    "l": "Columbia"
+  },
+  "5": {
+    "n": "Independence",
+    "l": "Independence"
+  },
+  "6": {
+    "n": "Lee's Summit",
+    "l": "Lee's Summit"
+  },
+  "7": {
+    "n": "O'Fallon",
+    "l": "O'Fallon"
+  },
+  "8": {
+    "n": "St. Joseph",
+    "l": "St. Joseph"
+  },
+  "9": {
+    "n": "St. Charles",
+    "l": "St. Charles"
+  },
+  "10": {
+    "n": "Blue Springs",
+    "l": "Blue Springs"
+  }
+}

@@ -1,1 +1,42 @@
-{"1":{"n":"Changde Shi","l":"常德市"},"2":{"n":"Changsha Shi","l":"长沙市"},"3":{"n":"Chenzhou Shi","l":"郴州市"},"4":{"n":"Hengyang Shi","l":"衡阳市"},"5":{"n":"Huaihua Shi","l":"怀化市"},"6":{"n":"Loudi Shi","l":"娄底市"},"7":{"n":"Shaoyang Shi","l":"邵阳市"},"8":{"n":"Xiangtan Shi","l":"湘潭市"},"9":{"n":"Xiangxi Tujiazu Miaozu Zizhizhou","l":"湘西土家族苗族自治州"},"10":{"n":"Yiyang Shi","l":"益阳市"},"11":{"n":"Yongzhou Shi","l":"永州市"},"12":{"n":"Yueyang Shi","l":"岳阳市"},"13":{"n":"Zhangjiajie Shi","l":"张家界市"},"14":{"n":"Zhuzhou Shi","l":"株洲市"}}
+{
+  "1": {
+    "n": "Changsha",
+    "l": "长沙"
+  },
+  "2": {
+    "n": "Zhuzhou",
+    "l": "株洲"
+  },
+  "3": {
+    "n": "Xiangtan",
+    "l": "湘潭"
+  },
+  "4": {
+    "n": "Hengyang",
+    "l": "衡阳"
+  },
+  "5": {
+    "n": "Yueyang",
+    "l": "岳阳"
+  },
+  "6": {
+    "n": "Changde",
+    "l": "常德"
+  },
+  "7": {
+    "n": "Yiyang",
+    "l": "益阳"
+  },
+  "8": {
+    "n": "Loudi",
+    "l": "娄底"
+  },
+  "9": {
+    "n": "Chenzhou",
+    "l": "郴州"
+  },
+  "10": {
+    "n": "Zhangjiajie",
+    "l": "张家界"
+  }
+}

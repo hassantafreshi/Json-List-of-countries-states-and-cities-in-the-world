@@ -1,1 +1,42 @@
-{"1":{"n":"Ada","l":""},"2":{"n":"Adams","l":""},"3":{"n":"Bannock","l":""},"4":{"n":"Bear Lake","l":""},"5":{"n":"Benewah","l":""},"6":{"n":"Bingham","l":""},"7":{"n":"Blaine","l":""},"8":{"n":"Boise","l":""},"9":{"n":"Bonner","l":""},"10":{"n":"Bonneville","l":""},"11":{"n":"Boundary","l":""},"12":{"n":"Butte","l":""},"13":{"n":"Camas","l":""},"14":{"n":"Canyon","l":""},"15":{"n":"Caribou","l":""},"16":{"n":"Cassia","l":""},"17":{"n":"Clark","l":""},"18":{"n":"Clearwater","l":""},"19":{"n":"Custer","l":""},"20":{"n":"Elmore","l":""},"21":{"n":"Franklin","l":""},"22":{"n":"Fremont","l":""},"23":{"n":"Gem","l":""},"24":{"n":"Gooding","l":""},"25":{"n":"Idaho","l":""},"26":{"n":"Jefferson","l":""},"27":{"n":"Jerome","l":""},"28":{"n":"Kootenai","l":""},"29":{"n":"Latah","l":""},"30":{"n":"Lemhi","l":""},"31":{"n":"Lewis","l":""},"32":{"n":"Lincoln","l":""},"33":{"n":"Madison","l":""},"34":{"n":"Minidoka","l":""},"35":{"n":"Nez Perce","l":""},"36":{"n":"Oneida","l":""},"37":{"n":"Owyhee","l":""},"38":{"n":"Payette","l":""},"39":{"n":"Power","l":""},"40":{"n":"Shoshone","l":""},"41":{"n":"Teton","l":""},"42":{"n":"Twin Falls","l":""},"43":{"n":"Valley","l":""},"44":{"n":"Washington","l":""}}
+{
+  "1": {
+    "n": "Boise",
+    "l": "Boise"
+  },
+  "2": {
+    "n": "Meridian",
+    "l": "Meridian"
+  },
+  "3": {
+    "n": "Nampa",
+    "l": "Nampa"
+  },
+  "4": {
+    "n": "Idaho Falls",
+    "l": "Idaho Falls"
+  },
+  "5": {
+    "n": "Pocatello",
+    "l": "Pocatello"
+  },
+  "6": {
+    "n": "Caldwell",
+    "l": "Caldwell"
+  },
+  "7": {
+    "n": "Coeur d'Alene",
+    "l": "Coeur d'Alene"
+  },
+  "8": {
+    "n": "Twin Falls",
+    "l": "Twin Falls"
+  },
+  "9": {
+    "n": "Lewiston",
+    "l": "Lewiston"
+  },
+  "10": {
+    "n": "Rexburg",
+    "l": "Rexburg"
+  }
+}

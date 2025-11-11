@@ -1,1 +1,34 @@
-{"1":{"n":"Bedok","l":""},"2":{"n":"Changi","l":""},"3":{"n":"Changi Bay","l":""},"4":{"n":"Pasir Ris","l":""},"5":{"n":"Paya Lebar","l":""},"6":{"n":"Tampines","l":""}}
+{
+  "1": {
+    "n": "Bedok",
+    "l": "Bedok"
+  },
+  "2": {
+    "n": "Tampines",
+    "l": "Tampines"
+  },
+  "3": {
+    "n": "Pasir Ris",
+    "l": "Pasir Ris"
+  },
+  "4": {
+    "n": "Changi",
+    "l": "Changi"
+  },
+  "5": {
+    "n": "Changi Bay",
+    "l": "Changi Bay"
+  },
+  "6": {
+    "n": "Paya Lebar",
+    "l": "Paya Lebar"
+  },
+  "7": {
+    "n": "Marine Parade",
+    "l": "Marine Parade"
+  },
+  "8": {
+    "n": "Simei",
+    "l": "Simei"
+  }
+}

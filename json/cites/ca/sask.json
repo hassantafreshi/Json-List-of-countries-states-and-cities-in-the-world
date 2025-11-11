@@ -1,1 +1,42 @@
-{"1":{"n":"Estevan","l":""},"2":{"n":"Lloydminster","l":""},"3":{"n":"Moose Jaw","l":""},"4":{"n":"North Battleford","l":""},"5":{"n":"Prince Albert","l":""},"6":{"n":"Regina","l":""},"7":{"n":"Saskatoon","l":""},"8":{"n":"Swift Current","l":""},"9":{"n":"Weyburn","l":""},"10":{"n":"Yorkton","l":""}}
+{
+  "1": {
+    "n": "Saskatoon",
+    "l": "Saskatoon"
+  },
+  "2": {
+    "n": "Regina",
+    "l": "Regina"
+  },
+  "3": {
+    "n": "Prince Albert",
+    "l": "Prince Albert"
+  },
+  "4": {
+    "n": "Moose Jaw",
+    "l": "Moose Jaw"
+  },
+  "5": {
+    "n": "Swift Current",
+    "l": "Swift Current"
+  },
+  "6": {
+    "n": "Yorkton",
+    "l": "Yorkton"
+  },
+  "7": {
+    "n": "North Battleford",
+    "l": "North Battleford"
+  },
+  "8": {
+    "n": "Lloydminster",
+    "l": "Lloydminster"
+  },
+  "9": {
+    "n": "Estevan",
+    "l": "Estevan"
+  },
+  "10": {
+    "n": "Weyburn",
+    "l": "Weyburn"
+  }
+}

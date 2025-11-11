@@ -1,1 +1,42 @@
-{"1":{"n":"Danzhou Shi","l":"儋州市"},"2":{"n":"Haikou Shi","l":"海口市"},"3":{"n":"Hainan Shengzhixiaxian Jixingzheng Quhua","l":"海南省省直辖县级行政区划"},"4":{"n":"Sansha Shi","l":"三沙市"},"5":{"n":"Sanya Shi","l":"三亚市"}}
+{
+  "1": {
+    "n": "Haikou",
+    "l": "海口"
+  },
+  "2": {
+    "n": "Sanya",
+    "l": "三亚"
+  },
+  "3": {
+    "n": "Danzhou",
+    "l": "儋州"
+  },
+  "4": {
+    "n": "Qionghai",
+    "l": "琼海"
+  },
+  "5": {
+    "n": "Wenchang",
+    "l": "文昌"
+  },
+  "6": {
+    "n": "Wanning",
+    "l": "万宁"
+  },
+  "7": {
+    "n": "Dongfang",
+    "l": "东方"
+  },
+  "8": {
+    "n": "Wuzhishan",
+    "l": "五指山"
+  },
+  "9": {
+    "n": "Ledong",
+    "l": "乐东"
+  },
+  "10": {
+    "n": "Lingshui",
+    "l": "陵水"
+  }
+}

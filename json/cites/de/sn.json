@@ -1,1 +1,42 @@
-{"1":{"n":"Bautzen","l":""},"2":{"n":"Chemnitz","l":""},"3":{"n":"Dresden","l":""},"4":{"n":"Erzgebirgskreis","l":""},"5":{"n":"Gorlitz","l":""},"6":{"n":"Leipzig","l":""},"7":{"n":"Leipzig Stadt","l":""},"8":{"n":"Meißen","l":""},"9":{"n":"Mittelsachsen","l":""},"10":{"n":"Nordsachsen","l":""},"11":{"n":"Sachsische Schweiz-Osterzgebirge","l":""},"12":{"n":"Vogtlandkreis","l":""},"13":{"n":"Zwickau","l":""}}
+{
+  "1": {
+    "n": "Leipzig",
+    "l": "Leipzig"
+  },
+  "2": {
+    "n": "Dresden",
+    "l": "Dresden"
+  },
+  "3": {
+    "n": "Chemnitz",
+    "l": "Chemnitz"
+  },
+  "4": {
+    "n": "Zwickau",
+    "l": "Zwickau"
+  },
+  "5": {
+    "n": "Plauen",
+    "l": "Plauen"
+  },
+  "6": {
+    "n": "Görlitz",
+    "l": "Görlitz"
+  },
+  "7": {
+    "n": "Freiberg",
+    "l": "Freiberg"
+  },
+  "8": {
+    "n": "Bautzen",
+    "l": "Bautzen"
+  },
+  "9": {
+    "n": "Riesa",
+    "l": "Riesa"
+  },
+  "10": {
+    "n": "Pirna",
+    "l": "Pirna"
+  }
+}

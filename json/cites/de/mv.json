@@ -1,1 +1,42 @@
-{"1":{"n":"Landkreis Rostock","l":""},"2":{"n":"Ludwigslust-Parchim","l":""},"3":{"n":"Mecklenburgische Seenplatte","l":""},"4":{"n":"Nordwestmecklenburg","l":""},"5":{"n":"Rostock","l":""},"6":{"n":"Schwerin","l":""},"7":{"n":"Vorpommern-Greifswald","l":""},"8":{"n":"Vorpommern-Rugen","l":""}}
+{
+  "1": {
+    "n": "Rostock",
+    "l": "Rostock"
+  },
+  "2": {
+    "n": "Schwerin",
+    "l": "Schwerin"
+  },
+  "3": {
+    "n": "Neubrandenburg",
+    "l": "Neubrandenburg"
+  },
+  "4": {
+    "n": "Stralsund",
+    "l": "Stralsund"
+  },
+  "5": {
+    "n": "Greifswald",
+    "l": "Greifswald"
+  },
+  "6": {
+    "n": "Wismar",
+    "l": "Wismar"
+  },
+  "7": {
+    "n": "Güstrow",
+    "l": "Güstrow"
+  },
+  "8": {
+    "n": "Waren (Müritz)",
+    "l": "Waren (Müritz)"
+  },
+  "9": {
+    "n": "Neustrelitz",
+    "l": "Neustrelitz"
+  },
+  "10": {
+    "n": "Pasewalk",
+    "l": "Pasewalk"
+  }
+}

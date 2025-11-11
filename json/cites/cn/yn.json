@@ -1,1 +1,42 @@
-{"1":{"n":"Baoshan Shi","l":"保山市"},"2":{"n":"Chuxiong Yizu Zizhizhou","l":"楚雄彝族自治州"},"3":{"n":"Dali Baizu Zizhizhou","l":"大理白族自治州"},"4":{"n":"Dehong Daizu Jingpozu Zizhizhou","l":"德宏傣族景颇族自治州"},"5":{"n":"Diqing Zangzu Zizhizhou","l":"迪庆藏族自治州"},"6":{"n":"Honghe Hanizu Yizu Zizhizhou","l":"红河哈尼族彝族自治州"},"7":{"n":"Kunming Shi","l":"昆明市"},"8":{"n":"Lijiang Shi","l":"丽江市"},"9":{"n":"Lincang Shi","l":"临沧市"},"10":{"n":"Nujiang Lisuzu Zizhizhou","l":"怒江傈僳族自治州"},"11":{"n":"Puer Shi","l":"普洱市"},"12":{"n":"Qujing Shi","l":"曲靖市"},"13":{"n":"Wenshan Zhuangzu Miaozu Zizhizhou","l":"文山壮族苗族自治州"},"14":{"n":"Xishuangbanna Daizu Zizhizhou","l":"西双版纳傣族自治州"},"15":{"n":"Yuxi Shi","l":"玉溪市"},"16":{"n":"Zhaotong Shi","l":"昭通市"}}
+{
+  "1": {
+    "n": "Kunming",
+    "l": "昆明"
+  },
+  "2": {
+    "n": "Qujing",
+    "l": "曲靖"
+  },
+  "3": {
+    "n": "Yuxi",
+    "l": "玉溪"
+  },
+  "4": {
+    "n": "Baoshan",
+    "l": "保山"
+  },
+  "5": {
+    "n": "Zhaotong",
+    "l": "昭通"
+  },
+  "6": {
+    "n": "Lijiang",
+    "l": "丽江"
+  },
+  "7": {
+    "n": "Pu'er",
+    "l": "普洱"
+  },
+  "8": {
+    "n": "Jinghong",
+    "l": "景洪"
+  },
+  "9": {
+    "n": "Dali",
+    "l": "大理"
+  },
+  "10": {
+    "n": "Chuxiong",
+    "l": "楚雄"
+  }
+}

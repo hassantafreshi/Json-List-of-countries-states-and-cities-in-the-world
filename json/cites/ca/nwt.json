@@ -1,1 +1,42 @@
-{"1":{"n":"Yellowknife","l":""}}
+{
+  "1": {
+    "n": "Yellowknife",
+    "l": "Yellowknife"
+  },
+  "2": {
+    "n": "Hay River",
+    "l": "Hay River"
+  },
+  "3": {
+    "n": "Inuvik",
+    "l": "Inuvik"
+  },
+  "4": {
+    "n": "Fort Smith",
+    "l": "Fort Smith"
+  },
+  "5": {
+    "n": "Behchoko",
+    "l": "Behchokǫ̀"
+  },
+  "6": {
+    "n": "Norman Wells",
+    "l": "Norman Wells"
+  },
+  "7": {
+    "n": "Fort Simpson",
+    "l": "Fort Simpson"
+  },
+  "8": {
+    "n": "Tuktoyaktuk",
+    "l": "Tuktoyaktuk"
+  },
+  "9": {
+    "n": "Fort McPherson",
+    "l": "Fort McPherson"
+  },
+  "10": {
+    "n": "Fort Resolution",
+    "l": "Fort Resolution"
+  }
+}

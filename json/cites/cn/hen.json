@@ -1,1 +1,42 @@
-{"1":{"n":"Anyang Shi","l":"安阳市"},"2":{"n":"Hebi Shi","l":"鹤壁市"},"3":{"n":"Jiaozuo Shi","l":"焦作市"},"4":{"n":"Jiyuan Shi","l":"济源市"},"5":{"n":"Kaifeng Shi","l":"开封市"},"6":{"n":"Luohe Shi","l":"漯河市"},"7":{"n":"Luoyang Shi","l":"洛阳市"},"8":{"n":"Nanyang Shi","l":"南阳市"},"9":{"n":"Pingdingshan Shi","l":"平顶山市"},"10":{"n":"Puyang Shi","l":"濮阳市"},"11":{"n":"Sanmenxia Shi","l":"三门峡市"},"12":{"n":"Shangqiu Shi","l":"商丘市"},"13":{"n":"Xinxiang Shi","l":"新乡市"},"14":{"n":"Xinyang Shi","l":"信阳市"},"15":{"n":"Xuchang Shi","l":"许昌市"},"16":{"n":"Zhengzhou Shi","l":"郑州市"},"17":{"n":"Zhoukou Shi","l":"周口市"},"18":{"n":"Zhumadian Shi","l":"驻马店市"}}
+{
+  "1": {
+    "n": "Zhengzhou",
+    "l": "郑州"
+  },
+  "2": {
+    "n": "Luoyang",
+    "l": "洛阳"
+  },
+  "3": {
+    "n": "Kaifeng",
+    "l": "开封"
+  },
+  "4": {
+    "n": "Anyang",
+    "l": "安阳"
+  },
+  "5": {
+    "n": "Xinxiang",
+    "l": "新乡"
+  },
+  "6": {
+    "n": "Jiaozuo",
+    "l": "焦作"
+  },
+  "7": {
+    "n": "Pingdingshan",
+    "l": "平顶山"
+  },
+  "8": {
+    "n": "Xuchang",
+    "l": "许昌"
+  },
+  "9": {
+    "n": "Nanyang",
+    "l": "南阳"
+  },
+  "10": {
+    "n": "Zhoukou",
+    "l": "周口"
+  }
+}

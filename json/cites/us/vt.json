@@ -1,1 +1,42 @@
-{"1":{"n":"Addison","l":""},"2":{"n":"Bennington","l":""},"3":{"n":"Caledonia","l":""},"4":{"n":"Chittenden","l":""},"5":{"n":"Essex","l":""},"6":{"n":"Franklin","l":""},"7":{"n":"Grand Isle","l":""},"8":{"n":"Lamoille","l":""},"9":{"n":"Orange","l":""},"10":{"n":"Orleans","l":""},"11":{"n":"Rutland","l":""},"12":{"n":"Washington","l":""},"13":{"n":"Windham","l":""},"14":{"n":"Windsor","l":""}}
+{
+  "1": {
+    "n": "Burlington",
+    "l": "Burlington"
+  },
+  "2": {
+    "n": "South Burlington",
+    "l": "South Burlington"
+  },
+  "3": {
+    "n": "Rutland",
+    "l": "Rutland"
+  },
+  "4": {
+    "n": "Barre",
+    "l": "Barre"
+  },
+  "5": {
+    "n": "Montpelier",
+    "l": "Montpelier"
+  },
+  "6": {
+    "n": "Essex Junction",
+    "l": "Essex Junction"
+  },
+  "7": {
+    "n": "St. Albans",
+    "l": "St. Albans"
+  },
+  "8": {
+    "n": "Winooski",
+    "l": "Winooski"
+  },
+  "9": {
+    "n": "Newport",
+    "l": "Newport"
+  },
+  "10": {
+    "n": "Vergennes",
+    "l": "Vergennes"
+  }
+}

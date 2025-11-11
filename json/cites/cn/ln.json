@@ -1,1 +1,42 @@
-{"1":{"n":"Anshan Shi","l":"鞍山市"},"2":{"n":"Benxi Shi","l":"本溪市"},"3":{"n":"Chaoyang Shi","l":"朝阳市"},"4":{"n":"Dalian Shi","l":"大连市"},"5":{"n":"Dandong Shi","l":"丹东市"},"6":{"n":"Fushun Shi","l":"抚顺市"},"7":{"n":"Fuxin Shi","l":"阜新市"},"8":{"n":"Huludao Shi","l":"葫芦岛市"},"9":{"n":"Jinzhou Shi","l":"锦州市"},"10":{"n":"Liaoyang Shi","l":"辽阳市"},"11":{"n":"Panjin Shi","l":"盘锦市"},"12":{"n":"Shenyang Shi","l":"沈阳市"},"13":{"n":"Tieling Shi","l":"铁岭市"},"14":{"n":"Yingkou Shi","l":"营口市"}}
+{
+  "1": {
+    "n": "Shenyang",
+    "l": "沈阳"
+  },
+  "2": {
+    "n": "Dalian",
+    "l": "大连"
+  },
+  "3": {
+    "n": "Anshan",
+    "l": "鞍山"
+  },
+  "4": {
+    "n": "Fushun",
+    "l": "抚顺"
+  },
+  "5": {
+    "n": "Benxi",
+    "l": "本溪"
+  },
+  "6": {
+    "n": "Dandong",
+    "l": "丹东"
+  },
+  "7": {
+    "n": "Jinzhou",
+    "l": "锦州"
+  },
+  "8": {
+    "n": "Yingkou",
+    "l": "营口"
+  },
+  "9": {
+    "n": "Fuxin",
+    "l": "阜新"
+  },
+  "10": {
+    "n": "Chaoyang",
+    "l": "朝阳"
+  }
+}

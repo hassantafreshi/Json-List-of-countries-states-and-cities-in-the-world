@@ -1,1 +1,42 @@
-{"1":{"n":"Adair","l":""},"2":{"n":"Alfalfa","l":""},"3":{"n":"Atoka","l":""},"4":{"n":"Beaver","l":""},"5":{"n":"Beckham","l":""},"6":{"n":"Blaine","l":""},"7":{"n":"Bryan","l":""},"8":{"n":"Caddo","l":""},"9":{"n":"Canadian","l":""},"10":{"n":"Carter","l":""},"11":{"n":"Cherokee","l":""},"12":{"n":"Choctaw","l":""},"13":{"n":"Cimarron","l":""},"14":{"n":"Cleveland","l":""},"15":{"n":"Coal","l":""},"16":{"n":"Comanche","l":""},"17":{"n":"Cotton","l":""},"18":{"n":"Craig","l":""},"19":{"n":"Creek","l":""},"20":{"n":"Custer","l":""},"21":{"n":"Delaware","l":""},"22":{"n":"Dewey","l":""},"23":{"n":"Ellis","l":""},"24":{"n":"Garfield","l":""},"25":{"n":"Garvin","l":""},"26":{"n":"Grady","l":""},"27":{"n":"Grant","l":""},"28":{"n":"Greer","l":""},"29":{"n":"Harmon","l":""},"30":{"n":"Harper","l":""},"31":{"n":"Haskell","l":""},"32":{"n":"Hughes","l":""},"33":{"n":"Jackson","l":""},"34":{"n":"Jefferson","l":""},"35":{"n":"Johnston","l":""},"36":{"n":"Kay","l":""},"37":{"n":"Kingfisher","l":""},"38":{"n":"Kiowa","l":""},"39":{"n":"Latimer","l":""},"40":{"n":"Le Flore","l":""},"41":{"n":"Lincoln","l":""},"42":{"n":"Logan","l":""},"43":{"n":"Love","l":""},"44":{"n":"Major","l":""},"45":{"n":"Marshall","l":""},"46":{"n":"Mayes","l":""},"47":{"n":"McClain","l":""},"48":{"n":"McCurtain","l":""},"49":{"n":"McIntosh","l":""},"50":{"n":"Murray","l":""},"51":{"n":"Muskogee","l":""},"52":{"n":"Noble","l":""},"53":{"n":"Nowata","l":""},"54":{"n":"Okfuskee","l":""},"55":{"n":"Oklahoma","l":""},"56":{"n":"Okmulgee","l":""},"57":{"n":"Osage","l":""},"58":{"n":"Ottawa","l":""},"59":{"n":"Pawnee","l":""},"60":{"n":"Payne","l":""},"61":{"n":"Pittsburg","l":""},"62":{"n":"Pontotoc","l":""},"63":{"n":"Pottawatomie","l":""},"64":{"n":"Pushmataha","l":""},"65":{"n":"Roger Mills","l":""},"66":{"n":"Rogers","l":""},"67":{"n":"Seminole","l":""},"68":{"n":"Sequoyah","l":""},"69":{"n":"Stephens","l":""},"70":{"n":"Texas","l":""},"71":{"n":"Tillman","l":""},"72":{"n":"Tulsa","l":""},"73":{"n":"Wagoner","l":""},"74":{"n":"Washington","l":""},"75":{"n":"Washita","l":""},"76":{"n":"Woods","l":""},"77":{"n":"Woodward","l":""}}
+{
+  "1": {
+    "n": "Oklahoma City",
+    "l": "Oklahoma City"
+  },
+  "2": {
+    "n": "Tulsa",
+    "l": "Tulsa"
+  },
+  "3": {
+    "n": "Norman",
+    "l": "Norman"
+  },
+  "4": {
+    "n": "Broken Arrow",
+    "l": "Broken Arrow"
+  },
+  "5": {
+    "n": "Lawton",
+    "l": "Lawton"
+  },
+  "6": {
+    "n": "Edmond",
+    "l": "Edmond"
+  },
+  "7": {
+    "n": "Moore",
+    "l": "Moore"
+  },
+  "8": {
+    "n": "Midwest City",
+    "l": "Midwest City"
+  },
+  "9": {
+    "n": "Stillwater",
+    "l": "Stillwater"
+  },
+  "10": {
+    "n": "Enid",
+    "l": "Enid"
+  }
+}

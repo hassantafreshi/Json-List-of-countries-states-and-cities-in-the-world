@@ -1,1 +1,82 @@
-{"BW":{"n":"Baden-Wurttemberg","l":"","s":"BW"},"BY":{"n":"Bavaria","l":"","s":"BY"},"BE":{"n":"Berlin","l":"","s":"BE"},"BB":{"n":"Brandenburg","l":"","s":"BB"},"HB":{"n":"Bremen","l":"","s":"HB"},"HH":{"n":"Hamburg","l":"","s":"HH"},"HE":{"n":"Hesse","l":"","s":"HE"},"MV":{"n":"Mecklenburg-Western Pomerania","l":"","s":"MV"},"NI":{"n":"Lower Saxony","l":"","s":"NI"},"NW":{"n":"North Rhine-Westphalia","l":"","s":"NW"},"RP":{"n":"Rhineland-Palatinate","l":"","s":"RP"},"SL":{"n":"Saarland","l":"","s":"SL"},"SN":{"n":"Saxony","l":"","s":"SN"},"ST":{"n":"Saxony-Anhalt","l":"","s":"ST"},"SH":{"n":"Schleswig-Holstein","l":"","s":"SH"},"TH":{"n":"Thuringia","l":"","s":"TH"}}
+{
+  "BB": {
+    "l": "Brandenburg",
+    "n": "Brandenburg",
+    "s": "BB"
+  },
+  "BE": {
+    "l": "Berlin",
+    "n": "Berlin",
+    "s": "BE"
+  },
+  "BW": {
+    "l": "Baden-Württemberg",
+    "n": "Baden-Wurttemberg",
+    "s": "BW"
+  },
+  "BY": {
+    "l": "Bayern",
+    "n": "Bavaria",
+    "s": "BY"
+  },
+  "HB": {
+    "l": "Bremen",
+    "n": "Bremen",
+    "s": "HB"
+  },
+  "HE": {
+    "l": "Hessen",
+    "n": "Hesse",
+    "s": "HE"
+  },
+  "HH": {
+    "l": "Hamburg",
+    "n": "Hamburg",
+    "s": "HH"
+  },
+  "MV": {
+    "l": "Mecklenburg-Vorpommern",
+    "n": "Mecklenburg-Western Pomerania",
+    "s": "MV"
+  },
+  "NI": {
+    "l": "Niedersachsen",
+    "n": "Lower Saxony",
+    "s": "NI"
+  },
+  "NW": {
+    "l": "Nordrhein-Westfalen",
+    "n": "North Rhine-Westphalia",
+    "s": "NW"
+  },
+  "RP": {
+    "l": "Rheinland-Pfalz",
+    "n": "Rhineland-Palatinate",
+    "s": "RP"
+  },
+  "SH": {
+    "l": "Schleswig-Holstein",
+    "n": "Schleswig-Holstein",
+    "s": "SH"
+  },
+  "SL": {
+    "l": "Saarland",
+    "n": "Saarland",
+    "s": "SL"
+  },
+  "SN": {
+    "l": "Sachsen",
+    "n": "Saxony",
+    "s": "SN"
+  },
+  "ST": {
+    "l": "Sachsen-Anhalt",
+    "n": "Saxony-Anhalt",
+    "s": "ST"
+  },
+  "TH": {
+    "l": "Thüringen",
+    "n": "Thuringia",
+    "s": "TH"
+  }
+}

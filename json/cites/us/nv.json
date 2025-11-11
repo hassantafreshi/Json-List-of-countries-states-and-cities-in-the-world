@@ -1,1 +1,42 @@
-{"1":{"n":"Carson City","l":""},"2":{"n":"Churchill","l":""},"3":{"n":"Clark","l":""},"4":{"n":"Douglas","l":""},"5":{"n":"Elko","l":""},"6":{"n":"Esmeralda","l":""},"7":{"n":"Eureka","l":""},"8":{"n":"Humboldt","l":""},"9":{"n":"Lander","l":""},"10":{"n":"Lincoln","l":""},"11":{"n":"Lyon","l":""},"12":{"n":"Mineral","l":""},"13":{"n":"Nye","l":""},"14":{"n":"Pershing","l":""},"15":{"n":"Storey","l":""},"16":{"n":"Washoe","l":""},"17":{"n":"White Pine","l":""}}
+{
+  "1": {
+    "n": "Las Vegas",
+    "l": "Las Vegas"
+  },
+  "2": {
+    "n": "Henderson",
+    "l": "Henderson"
+  },
+  "3": {
+    "n": "Reno",
+    "l": "Reno"
+  },
+  "4": {
+    "n": "North Las Vegas",
+    "l": "North Las Vegas"
+  },
+  "5": {
+    "n": "Sparks",
+    "l": "Sparks"
+  },
+  "6": {
+    "n": "Carson City",
+    "l": "Carson City"
+  },
+  "7": {
+    "n": "Elko",
+    "l": "Elko"
+  },
+  "8": {
+    "n": "Mesquite",
+    "l": "Mesquite"
+  },
+  "9": {
+    "n": "Boulder City",
+    "l": "Boulder City"
+  },
+  "10": {
+    "n": "Fernley",
+    "l": "Fernley"
+  }
+}

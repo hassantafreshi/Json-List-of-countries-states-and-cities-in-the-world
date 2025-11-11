@@ -1,1 +1,42 @@
-{"1":{"n":"Merzig-Wadern","l":""},"2":{"n":"Neunkirchen","l":""},"3":{"n":"Regionalverband Saarbrucken","l":""},"4":{"n":"Saarlouis","l":""},"5":{"n":"Saarpfalz-Kreis","l":""},"6":{"n":"St. Wendel","l":""}}
+{
+  "1": {
+    "n": "Saarbrücken",
+    "l": "Saarbrücken"
+  },
+  "2": {
+    "n": "Neunkirchen",
+    "l": "Neunkirchen"
+  },
+  "3": {
+    "n": "Homburg",
+    "l": "Homburg"
+  },
+  "4": {
+    "n": "Völklingen",
+    "l": "Völklingen"
+  },
+  "5": {
+    "n": "St. Ingbert",
+    "l": "St. Ingbert"
+  },
+  "6": {
+    "n": "Saarlouis",
+    "l": "Saarlouis"
+  },
+  "7": {
+    "n": "Merzig",
+    "l": "Merzig"
+  },
+  "8": {
+    "n": "Dillingen/Saar",
+    "l": "Dillingen/Saar"
+  },
+  "9": {
+    "n": "Blieskastel",
+    "l": "Blieskastel"
+  },
+  "10": {
+    "n": "Lebach",
+    "l": "Lebach"
+  }
+}

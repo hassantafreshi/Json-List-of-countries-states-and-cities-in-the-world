@@ -1,1 +1,42 @@
-{"1":{"n":"Beaver","l":""},"2":{"n":"Box Elder","l":""},"3":{"n":"Cache","l":""},"4":{"n":"Carbon","l":""},"5":{"n":"Daggett","l":""},"6":{"n":"Davis","l":""},"7":{"n":"Duchesne","l":""},"8":{"n":"Emery","l":""},"9":{"n":"Garfield","l":""},"10":{"n":"Grand","l":""},"11":{"n":"Iron","l":""},"12":{"n":"Juab","l":""},"13":{"n":"Kane","l":""},"14":{"n":"Millard","l":""},"15":{"n":"Morgan","l":""},"16":{"n":"Piute","l":""},"17":{"n":"Rich","l":""},"18":{"n":"Salt Lake","l":""},"19":{"n":"San Juan","l":""},"20":{"n":"Sanpete","l":""},"21":{"n":"Sevier","l":""},"22":{"n":"Summit","l":""},"23":{"n":"Tooele","l":""},"24":{"n":"Uintah","l":""},"25":{"n":"Utah","l":""},"26":{"n":"Wasatch","l":""},"27":{"n":"Washington","l":""},"28":{"n":"Wayne","l":""},"29":{"n":"Weber","l":""}}
+{
+  "1": {
+    "n": "Salt Lake City",
+    "l": "Salt Lake City"
+  },
+  "2": {
+    "n": "West Valley City",
+    "l": "West Valley City"
+  },
+  "3": {
+    "n": "West Jordan",
+    "l": "West Jordan"
+  },
+  "4": {
+    "n": "Provo",
+    "l": "Provo"
+  },
+  "5": {
+    "n": "Orem",
+    "l": "Orem"
+  },
+  "6": {
+    "n": "Sandy",
+    "l": "Sandy"
+  },
+  "7": {
+    "n": "St. George",
+    "l": "St. George"
+  },
+  "8": {
+    "n": "Ogden",
+    "l": "Ogden"
+  },
+  "9": {
+    "n": "Layton",
+    "l": "Layton"
+  },
+  "10": {
+    "n": "South Jordan",
+    "l": "South Jordan"
+  }
+}

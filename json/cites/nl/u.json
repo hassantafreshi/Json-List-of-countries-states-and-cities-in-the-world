@@ -1,1 +1,42 @@
-{"1":{"n":"Amersfoort","l":""},"2":{"n":"Baarn","l":""},"3":{"n":"Bunnik","l":""},"4":{"n":"Bunschoten","l":""},"5":{"n":"De Bilt","l":""},"6":{"n":"De Ronde Venen","l":""},"7":{"n":"Eemnes","l":""},"8":{"n":"Houten","l":""},"9":{"n":"IJsselstein","l":""},"10":{"n":"Leusden","l":""},"11":{"n":"Lopik","l":""},"12":{"n":"Montfoort","l":""},"13":{"n":"Nieuwegein","l":""},"14":{"n":"Oudewater","l":""},"15":{"n":"Renswoude","l":""},"16":{"n":"Rhenen","l":""},"17":{"n":"Soest","l":""},"18":{"n":"Stichtse Vecht","l":""},"19":{"n":"Utrecht","l":""},"20":{"n":"Utrechtse Heuvelrug","l":""},"21":{"n":"Veenendaal","l":""},"22":{"n":"Vijfheerenlanden","l":""},"23":{"n":"Wijk bij Duurstede","l":""},"24":{"n":"Woerden","l":""},"25":{"n":"Woudenberg","l":""},"26":{"n":"Zeist","l":""}}
+{
+  "1": {
+    "n": "Utrecht",
+    "l": "Utrecht"
+  },
+  "2": {
+    "n": "Amersfoort",
+    "l": "Amersfoort"
+  },
+  "3": {
+    "n": "Nieuwegein",
+    "l": "Nieuwegein"
+  },
+  "4": {
+    "n": "Zeist",
+    "l": "Zeist"
+  },
+  "5": {
+    "n": "Veenendaal",
+    "l": "Veenendaal"
+  },
+  "6": {
+    "n": "Houten",
+    "l": "Houten"
+  },
+  "7": {
+    "n": "IJsselstein",
+    "l": "IJsselstein"
+  },
+  "8": {
+    "n": "Woerden",
+    "l": "Woerden"
+  },
+  "9": {
+    "n": "Soest",
+    "l": "Soest"
+  },
+  "10": {
+    "n": "Baarn",
+    "l": "Baarn"
+  }
+}

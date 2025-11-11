@@ -1,1 +1,42 @@
-{"1":{"n":"Enshi Tujiazu Miaozu Zizhizhou","l":"恩施土家族苗族自治州"},"2":{"n":"Ezhou Shi","l":"鄂州市"},"3":{"n":"Huanggang Shi","l":"黄冈市"},"4":{"n":"Huangshi Shi","l":"黄石市"},"5":{"n":"Hubei Shengzhixiaxian Jixingzheng Quhua","l":"湖北省省直辖县级行政区划"},"6":{"n":"Jingmen Shi","l":"荆门市"},"7":{"n":"Jingzhou Shi","l":"荆州市"},"8":{"n":"Shiyan Shi","l":"十堰市"},"9":{"n":"Suizhou Shi","l":"随州市"},"10":{"n":"Wuhan Shi","l":"武汉市"},"11":{"n":"Xiangyang Shi","l":"襄阳市"},"12":{"n":"Xianning Shi","l":"咸宁市"},"13":{"n":"Xiaogan Shi","l":"孝感市"},"14":{"n":"Yichang Shi","l":"宜昌市"}}
+{
+  "1": {
+    "n": "Wuhan",
+    "l": "武汉"
+  },
+  "2": {
+    "n": "Huangshi",
+    "l": "黄石"
+  },
+  "3": {
+    "n": "Shiyan",
+    "l": "十堰"
+  },
+  "4": {
+    "n": "Yichang",
+    "l": "宜昌"
+  },
+  "5": {
+    "n": "Xiangyang",
+    "l": "襄阳"
+  },
+  "6": {
+    "n": "Ezhou",
+    "l": "鄂州"
+  },
+  "7": {
+    "n": "Jingmen",
+    "l": "荆门"
+  },
+  "8": {
+    "n": "Xiaogan",
+    "l": "孝感"
+  },
+  "9": {
+    "n": "Jingzhou",
+    "l": "荆州"
+  },
+  "10": {
+    "n": "Huanggang",
+    "l": "黄冈"
+  }
+}

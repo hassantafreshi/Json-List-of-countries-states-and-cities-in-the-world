@@ -1,1 +1,42 @@
-{"1":{"n":"Brandon","l":""},"2":{"n":"Portage la Prairie","l":""},"3":{"n":"Steinbach","l":""},"4":{"n":"Thompson","l":""},"5":{"n":"Winkler","l":""},"6":{"n":"Winnipeg","l":""}}
+{
+  "1": {
+    "n": "Winnipeg",
+    "l": "Winnipeg"
+  },
+  "2": {
+    "n": "Brandon",
+    "l": "Brandon"
+  },
+  "3": {
+    "n": "Steinbach",
+    "l": "Steinbach"
+  },
+  "4": {
+    "n": "Thompson",
+    "l": "Thompson"
+  },
+  "5": {
+    "n": "Portage la Prairie",
+    "l": "Portage la Prairie"
+  },
+  "6": {
+    "n": "Winkler",
+    "l": "Winkler"
+  },
+  "7": {
+    "n": "Selkirk",
+    "l": "Selkirk"
+  },
+  "8": {
+    "n": "Morden",
+    "l": "Morden"
+  },
+  "9": {
+    "n": "Dauphin",
+    "l": "Dauphin"
+  },
+  "10": {
+    "n": "The Pas",
+    "l": "The Pas"
+  }
+}

@@ -1,1 +1,22 @@
-{"1":{"n":"Alice Springs","l":""},"2":{"n":"Barkly","l":""},"3":{"n":"Belyuen","l":""},"4":{"n":"Central Desert","l":""},"5":{"n":"Coomalie","l":""},"6":{"n":"Darwin","l":""},"7":{"n":"East Arnhem","l":""},"8":{"n":"Katherine","l":""},"9":{"n":"Litchfield","l":""},"10":{"n":"MacDonnell","l":""},"11":{"n":"Palmerston","l":""},"12":{"n":"Roper Gulf","l":""},"13":{"n":"Tiwi Islands","l":""},"14":{"n":"Northern Territory","l":""},"15":{"n":"Victoria Daly","l":""},"16":{"n":"Wagait","l":""},"17":{"n":"West Arnhem","l":""},"18":{"n":"West Daly","l":""}}
+{
+  "1": {
+    "n": "Alice Springs",
+    "l": "Alice Springs"
+  },
+  "2": {
+    "n": "Darwin",
+    "l": "Darwin"
+  },
+  "3": {
+    "n": "Katherine",
+    "l": "Katherine"
+  },
+  "4": {
+    "n": "Palmerston",
+    "l": "Palmerston"
+  },
+  "5": {
+    "n": "Tennant Creek",
+    "l": "Tennant Creek"
+  }
+}

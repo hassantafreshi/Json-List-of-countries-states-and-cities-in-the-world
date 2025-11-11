@@ -1,1 +1,42 @@
-{"1":{"n":"Dithmarschen","l":""},"2":{"n":"Flensburg","l":""},"3":{"n":"Herzogtum Lauenburg","l":""},"4":{"n":"Kiel","l":""},"5":{"n":"Lubeck","l":""},"6":{"n":"Neumunster","l":""},"7":{"n":"Nordfriesland","l":""},"8":{"n":"Ostholstein","l":""},"9":{"n":"Pinneberg","l":""},"10":{"n":"Plon","l":""},"11":{"n":"Rendsburg-Eckernforde","l":""},"12":{"n":"Schleswig-Flensburg","l":""},"13":{"n":"Segeberg","l":""},"14":{"n":"Steinburg","l":""},"15":{"n":"Stormarn","l":""}}
+{
+  "1": {
+    "n": "Kiel",
+    "l": "Kiel"
+  },
+  "2": {
+    "n": "Lübeck",
+    "l": "Lübeck"
+  },
+  "3": {
+    "n": "Flensburg",
+    "l": "Flensburg"
+  },
+  "4": {
+    "n": "Neumünster",
+    "l": "Neumünster"
+  },
+  "5": {
+    "n": "Norderstedt",
+    "l": "Norderstedt"
+  },
+  "6": {
+    "n": "Elmshorn",
+    "l": "Elmshorn"
+  },
+  "7": {
+    "n": "Pinneberg",
+    "l": "Pinneberg"
+  },
+  "8": {
+    "n": "Itzehoe",
+    "l": "Itzehoe"
+  },
+  "9": {
+    "n": "Wedel",
+    "l": "Wedel"
+  },
+  "10": {
+    "n": "Heide",
+    "l": "Heide"
+  }
+}

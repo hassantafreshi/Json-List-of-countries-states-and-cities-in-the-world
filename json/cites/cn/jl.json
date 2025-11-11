@@ -1,1 +1,42 @@
-{"1":{"n":"Baicheng Shi","l":"白城市"},"2":{"n":"Baishan Shi","l":"白山市"},"3":{"n":"Changchun Shi","l":"长春市"},"4":{"n":"Jilin Shi","l":"吉林市"},"5":{"n":"Liaoyuan Shi","l":"辽源市"},"6":{"n":"Siping Shi","l":"四平市"},"7":{"n":"Songyuan Shi","l":"松原市"},"8":{"n":"Tonghua Shi","l":"通化市"},"9":{"n":"Yanbianchao Xianzu Zizhizhou","l":"延边朝鲜族自治州"}}
+{
+  "1": {
+    "n": "Changchun",
+    "l": "长春"
+  },
+  "2": {
+    "n": "Jilin City",
+    "l": "吉林市"
+  },
+  "3": {
+    "n": "Siping",
+    "l": "四平"
+  },
+  "4": {
+    "n": "Liaoyuan",
+    "l": "辽源"
+  },
+  "5": {
+    "n": "Tonghua",
+    "l": "通化"
+  },
+  "6": {
+    "n": "Baishan",
+    "l": "白山"
+  },
+  "7": {
+    "n": "Songyuan",
+    "l": "松原"
+  },
+  "8": {
+    "n": "Baicheng",
+    "l": "白城"
+  },
+  "9": {
+    "n": "Yanji",
+    "l": "延吉"
+  },
+  "10": {
+    "n": "Gongzhuling",
+    "l": "公主岭"
+  }
+}

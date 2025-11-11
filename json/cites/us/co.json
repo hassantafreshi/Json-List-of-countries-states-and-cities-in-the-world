@@ -1,1 +1,42 @@
-{"1":{"n":"Adams","l":""},"2":{"n":"Alamosa","l":""},"3":{"n":"Arapahoe","l":""},"4":{"n":"Archuleta","l":""},"5":{"n":"Baca","l":""},"6":{"n":"Bent","l":""},"7":{"n":"Boulder","l":""},"8":{"n":"Broomfield","l":""},"9":{"n":"Chaffee","l":""},"10":{"n":"Cheyenne","l":""},"11":{"n":"Clear Creek","l":""},"12":{"n":"Conejos","l":""},"13":{"n":"Costilla","l":""},"14":{"n":"Crowley","l":""},"15":{"n":"Custer","l":""},"16":{"n":"Delta","l":""},"17":{"n":"Denver","l":""},"18":{"n":"Dolores","l":""},"19":{"n":"Douglas","l":""},"20":{"n":"Eagle","l":""},"21":{"n":"Elbert","l":""},"22":{"n":"El Paso","l":""},"23":{"n":"Fremont","l":""},"24":{"n":"Garfield","l":""},"25":{"n":"Gilpin","l":""},"26":{"n":"Grand","l":""},"27":{"n":"Gunnison","l":""},"28":{"n":"Hinsdale","l":""},"29":{"n":"Huerfano","l":""},"30":{"n":"Jackson","l":""},"31":{"n":"Jefferson","l":""},"32":{"n":"Kiowa","l":""},"33":{"n":"Kit Carson","l":""},"34":{"n":"Lake","l":""},"35":{"n":"La Plata","l":""},"36":{"n":"Larimer","l":""},"37":{"n":"Las Animas","l":""},"38":{"n":"Lincoln","l":""},"39":{"n":"Logan","l":""},"40":{"n":"Mesa","l":""},"41":{"n":"Mineral","l":""},"42":{"n":"Moffat","l":""},"43":{"n":"Montezuma","l":""},"44":{"n":"Montrose","l":""},"45":{"n":"Morgan","l":""},"46":{"n":"Otero","l":""},"47":{"n":"Ouray","l":""},"48":{"n":"Park","l":""},"49":{"n":"Phillips","l":""},"50":{"n":"Pitkin","l":""},"51":{"n":"Prowers","l":""},"52":{"n":"Pueblo","l":""},"53":{"n":"Rio Blanco","l":""},"54":{"n":"Rio Grande","l":""},"55":{"n":"Routt","l":""},"56":{"n":"Saguache","l":""},"57":{"n":"San Juan","l":""},"58":{"n":"San Miguel","l":""},"59":{"n":"Sedgwick","l":""},"60":{"n":"Summit","l":""},"61":{"n":"Teller","l":""},"62":{"n":"Washington","l":""},"63":{"n":"Weld","l":""},"64":{"n":"Yuma","l":""}}
+{
+  "1": {
+    "n": "Denver",
+    "l": "Denver"
+  },
+  "2": {
+    "n": "Colorado Springs",
+    "l": "Colorado Springs"
+  },
+  "3": {
+    "n": "Aurora",
+    "l": "Aurora"
+  },
+  "4": {
+    "n": "Fort Collins",
+    "l": "Fort Collins"
+  },
+  "5": {
+    "n": "Lakewood",
+    "l": "Lakewood"
+  },
+  "6": {
+    "n": "Thornton",
+    "l": "Thornton"
+  },
+  "7": {
+    "n": "Arvada",
+    "l": "Arvada"
+  },
+  "8": {
+    "n": "Westminster",
+    "l": "Westminster"
+  },
+  "9": {
+    "n": "Pueblo",
+    "l": "Pueblo"
+  },
+  "10": {
+    "n": "Greeley",
+    "l": "Greeley"
+  }
+}

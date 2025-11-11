@@ -1,1 +1,26 @@
-{"1":{"n":"Almere","l":""},"2":{"n":"Dronten","l":""},"3":{"n":"Lelystad","l":""},"4":{"n":"Noordoostpolder","l":""},"5":{"n":"Urk","l":""},"6":{"n":"Zeewolde","l":""}}
+{
+  "1": {
+    "n": "Lelystad",
+    "l": "Lelystad"
+  },
+  "2": {
+    "n": "Almere",
+    "l": "Almere"
+  },
+  "3": {
+    "n": "Dronten",
+    "l": "Dronten"
+  },
+  "4": {
+    "n": "Zeewolde",
+    "l": "Zeewolde"
+  },
+  "5": {
+    "n": "Urk",
+    "l": "Urk"
+  },
+  "6": {
+    "n": "Noordoostpolder",
+    "l": "Noordoostpolder"
+  }
+}

@@ -1,1 +1,42 @@
-{"1":{"n":"Barnstable","l":""},"2":{"n":"Berkshire","l":""},"3":{"n":"Bristol","l":""},"4":{"n":"Dukes","l":""},"5":{"n":"Essex","l":""},"6":{"n":"Franklin","l":""},"7":{"n":"Hampden","l":""},"8":{"n":"Hampshire","l":""},"9":{"n":"Middlesex","l":""},"10":{"n":"Nantucket","l":""},"11":{"n":"Norfolk","l":""},"12":{"n":"Plymouth","l":""},"13":{"n":"Suffolk","l":""},"14":{"n":"Worcester","l":""}}
+{
+  "1": {
+    "n": "Boston",
+    "l": "Boston"
+  },
+  "2": {
+    "n": "Worcester",
+    "l": "Worcester"
+  },
+  "3": {
+    "n": "Springfield",
+    "l": "Springfield"
+  },
+  "4": {
+    "n": "Cambridge",
+    "l": "Cambridge"
+  },
+  "5": {
+    "n": "Lowell",
+    "l": "Lowell"
+  },
+  "6": {
+    "n": "Brockton",
+    "l": "Brockton"
+  },
+  "7": {
+    "n": "New Bedford",
+    "l": "New Bedford"
+  },
+  "8": {
+    "n": "Quincy",
+    "l": "Quincy"
+  },
+  "9": {
+    "n": "Lynn",
+    "l": "Lynn"
+  },
+  "10": {
+    "n": "Fall River",
+    "l": "Fall River"
+  }
+}

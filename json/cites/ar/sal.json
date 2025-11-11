@@ -1,1 +1,46 @@
-{"1":{"n":"Anta","l":""},"2":{"n":"Cachi","l":""},"3":{"n":"Cafayate","l":""},"4":{"n":"Capital","l":""},"5":{"n":"Cerrillos","l":""},"6":{"n":"Chicoana","l":""},"7":{"n":"General Guemes","l":""},"8":{"n":"General Jose de San Martin","l":""},"9":{"n":"Guachipas","l":""},"10":{"n":"Iruya","l":""},"11":{"n":"La Caldera","l":""},"12":{"n":"La Candelaria","l":""},"13":{"n":"La Poma","l":""},"14":{"n":"La Vina","l":""},"15":{"n":"Los Andes","l":""},"16":{"n":"Metan","l":""},"17":{"n":"Molinos","l":""},"18":{"n":"Oran","l":""},"19":{"n":"Rivadavia","l":""},"20":{"n":"Rosario de la Frontera","l":""},"21":{"n":"Rosario de Lerma","l":""},"22":{"n":"San Carlos","l":""},"23":{"n":"Santa Victoria","l":""}}
+{
+  "1": {
+    "n": "Salta",
+    "l": "Salta"
+  },
+  "2": {
+    "n": "San Ramón de la Nueva Orán",
+    "l": "San Ramón de la Nueva Orán"
+  },
+  "3": {
+    "n": "Tartagal",
+    "l": "Tartagal"
+  },
+  "4": {
+    "n": "Metán",
+    "l": "Metán"
+  },
+  "5": {
+    "n": "Rosario de la Frontera",
+    "l": "Rosario de la Frontera"
+  },
+  "6": {
+    "n": "Cafayate",
+    "l": "Cafayate"
+  },
+  "7": {
+    "n": "General Güemes",
+    "l": "General Güemes"
+  },
+  "8": {
+    "n": "Embarcación",
+    "l": "Embarcación"
+  },
+  "9": {
+    "n": "Joaquín V. González",
+    "l": "Joaquín V. González"
+  },
+  "10": {
+    "n": "Cachi",
+    "l": "Cachi"
+  },
+  "11": {
+    "n": "Hipólito Yrigoyen",
+    "l": "Hipólito Yrigoyen"
+  }
+}

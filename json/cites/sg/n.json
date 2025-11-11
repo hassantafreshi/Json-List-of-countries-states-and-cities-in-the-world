@@ -1,1 +1,34 @@
-{"1":{"n":"Central Water Catchment","l":""},"2":{"n":"Lim Chu Kang","l":""},"3":{"n":"Mandai","l":""},"4":{"n":"Sembawang","l":""},"5":{"n":"Simpang","l":""},"6":{"n":"Sungei Kadut","l":""},"7":{"n":"Woodlands","l":""},"8":{"n":"Yishun","l":""}}
+{
+  "1": {
+    "n": "Woodlands",
+    "l": "Woodlands"
+  },
+  "2": {
+    "n": "Yishun",
+    "l": "Yishun"
+  },
+  "3": {
+    "n": "Sembawang",
+    "l": "Sembawang"
+  },
+  "4": {
+    "n": "Mandai",
+    "l": "Mandai"
+  },
+  "5": {
+    "n": "Sungei Kadut",
+    "l": "Sungei Kadut"
+  },
+  "6": {
+    "n": "Simpang",
+    "l": "Simpang"
+  },
+  "7": {
+    "n": "Lim Chu Kang",
+    "l": "Lim Chu Kang"
+  },
+  "8": {
+    "n": "Canberra",
+    "l": "Canberra"
+  }
+}

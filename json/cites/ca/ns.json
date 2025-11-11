@@ -1,1 +1,42 @@
-{"1":{"n":"Cape Breton","l":""},"2":{"n":"Halifax","l":""},"3":{"n":"Kentville","l":""},"4":{"n":"New Glasgow","l":""},"5":{"n":"Truro","l":""}}
+{
+  "1": {
+    "n": "Halifax",
+    "l": "Halifax"
+  },
+  "2": {
+    "n": "Sydney",
+    "l": "Sydney"
+  },
+  "3": {
+    "n": "Dartmouth",
+    "l": "Dartmouth"
+  },
+  "4": {
+    "n": "Truro",
+    "l": "Truro"
+  },
+  "5": {
+    "n": "New Glasgow",
+    "l": "New Glasgow"
+  },
+  "6": {
+    "n": "Glace Bay",
+    "l": "Glace Bay"
+  },
+  "7": {
+    "n": "Kentville",
+    "l": "Kentville"
+  },
+  "8": {
+    "n": "Amherst",
+    "l": "Amherst"
+  },
+  "9": {
+    "n": "Bridgewater",
+    "l": "Bridgewater"
+  },
+  "10": {
+    "n": "Yarmouth",
+    "l": "Yarmouth"
+  }
+}

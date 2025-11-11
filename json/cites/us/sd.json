@@ -1,1 +1,42 @@
-{"1":{"n":"Aurora","l":""},"2":{"n":"Beadle","l":""},"3":{"n":"Bennett","l":""},"4":{"n":"Bon Homme","l":""},"5":{"n":"Brookings","l":""},"6":{"n":"Brown","l":""},"7":{"n":"Brule","l":""},"8":{"n":"Buffalo","l":""},"9":{"n":"Butte","l":""},"10":{"n":"Campbell","l":""},"11":{"n":"Charles Mix","l":""},"12":{"n":"Clark","l":""},"13":{"n":"Clay","l":""},"14":{"n":"Codington","l":""},"15":{"n":"Corson","l":""},"16":{"n":"Custer","l":""},"17":{"n":"Davison","l":""},"18":{"n":"Day","l":""},"19":{"n":"Deuel","l":""},"20":{"n":"Dewey","l":""},"21":{"n":"Douglas","l":""},"22":{"n":"Edmunds","l":""},"23":{"n":"Fall River","l":""},"24":{"n":"Faulk","l":""},"25":{"n":"Grant","l":""},"26":{"n":"Gregory","l":""},"27":{"n":"Haakon","l":""},"28":{"n":"Hamlin","l":""},"29":{"n":"Hand","l":""},"30":{"n":"Hanson","l":""},"31":{"n":"Harding","l":""},"32":{"n":"Hughes","l":""},"33":{"n":"Hutchinson","l":""},"34":{"n":"Hyde","l":""},"35":{"n":"Jackson","l":""},"36":{"n":"Jerauld","l":""},"37":{"n":"Jones","l":""},"38":{"n":"Kingsbury","l":""},"39":{"n":"Lake","l":""},"40":{"n":"Lawrence","l":""},"41":{"n":"Lincoln","l":""},"42":{"n":"Lyman","l":""},"43":{"n":"Marshall","l":""},"44":{"n":"McCook","l":""},"45":{"n":"McPherson","l":""},"46":{"n":"Meade","l":""},"47":{"n":"Mellette","l":""},"48":{"n":"Miner","l":""},"49":{"n":"Minnehaha","l":""},"50":{"n":"Moody","l":""},"51":{"n":"Oglala Lakota","l":""},"52":{"n":"Pennington","l":""},"53":{"n":"Perkins","l":""},"54":{"n":"Potter","l":""},"55":{"n":"Roberts","l":""},"56":{"n":"Sanborn","l":""},"57":{"n":"Spink","l":""},"58":{"n":"Stanley","l":""},"59":{"n":"Sully","l":""},"60":{"n":"Todd","l":""},"61":{"n":"Tripp","l":""},"62":{"n":"Turner","l":""},"63":{"n":"Union","l":""},"64":{"n":"Walworth","l":""},"65":{"n":"Yankton","l":""},"66":{"n":"Ziebach","l":""}}
+{
+  "1": {
+    "n": "Sioux Falls",
+    "l": "Sioux Falls"
+  },
+  "2": {
+    "n": "Rapid City",
+    "l": "Rapid City"
+  },
+  "3": {
+    "n": "Aberdeen",
+    "l": "Aberdeen"
+  },
+  "4": {
+    "n": "Brookings",
+    "l": "Brookings"
+  },
+  "5": {
+    "n": "Watertown",
+    "l": "Watertown"
+  },
+  "6": {
+    "n": "Mitchell",
+    "l": "Mitchell"
+  },
+  "7": {
+    "n": "Yankton",
+    "l": "Yankton"
+  },
+  "8": {
+    "n": "Huron",
+    "l": "Huron"
+  },
+  "9": {
+    "n": "Pierre",
+    "l": "Pierre"
+  },
+  "10": {
+    "n": "Spearfish",
+    "l": "Spearfish"
+  }
+}

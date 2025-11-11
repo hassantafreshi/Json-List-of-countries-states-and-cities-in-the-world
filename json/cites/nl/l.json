@@ -1,1 +1,42 @@
-{"1":{"n":"Beekdaelen","l":""},"2":{"n":"Beek","l":""},"3":{"n":"Beesel","l":""},"4":{"n":"Bergen","l":""},"5":{"n":"Brunssum","l":""},"6":{"n":"Echt-Susteren","l":""},"7":{"n":"Eijsden-Margraten","l":""},"8":{"n":"Gennep","l":""},"9":{"n":"Gulpen-Wittem","l":""},"10":{"n":"Heerlen","l":""},"11":{"n":"Horst aan de Maas","l":""},"12":{"n":"Kerkrade","l":""},"13":{"n":"Landgraaf","l":""},"14":{"n":"Leudal","l":""},"15":{"n":"Maasgouw","l":""},"16":{"n":"Maastricht","l":""},"17":{"n":"Meerssen","l":""},"18":{"n":"Mook en Middelaar","l":""},"19":{"n":"Nederweert","l":""},"20":{"n":"Peel en Maas","l":""},"21":{"n":"Roerdalen","l":""},"22":{"n":"Roermond","l":""},"23":{"n":"Simpelveld","l":""},"24":{"n":"Sittard-Geleen","l":""},"25":{"n":"Stein","l":""},"26":{"n":"Vaals","l":""},"27":{"n":"Valkenburg aan de Geul","l":""},"28":{"n":"Venlo","l":""},"29":{"n":"Venray","l":""},"30":{"n":"Voerendaal","l":""},"31":{"n":"Weert","l":""}}
+{
+  "1": {
+    "n": "Maastricht",
+    "l": "Maastricht"
+  },
+  "2": {
+    "n": "Heerlen",
+    "l": "Heerlen"
+  },
+  "3": {
+    "n": "Sittard-Geleen",
+    "l": "Sittard-Geleen"
+  },
+  "4": {
+    "n": "Venlo",
+    "l": "Venlo"
+  },
+  "5": {
+    "n": "Roermond",
+    "l": "Roermond"
+  },
+  "6": {
+    "n": "Weert",
+    "l": "Weert"
+  },
+  "7": {
+    "n": "Kerkrade",
+    "l": "Kerkrade"
+  },
+  "8": {
+    "n": "Venray",
+    "l": "Venray"
+  },
+  "9": {
+    "n": "Landgraaf",
+    "l": "Landgraaf"
+  },
+  "10": {
+    "n": "Echt-Susteren",
+    "l": "Echt-Susteren"
+  }
+}

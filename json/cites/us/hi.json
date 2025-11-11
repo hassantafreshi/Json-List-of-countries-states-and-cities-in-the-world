@@ -1,1 +1,42 @@
-{"1":{"n":"Hawaii","l":""},"2":{"n":"Honolulu","l":""},"3":{"n":"Kalawao","l":""},"4":{"n":"Kauai","l":""},"5":{"n":"Maui","l":""}}
+{
+  "1": {
+    "n": "Honolulu",
+    "l": "Honolulu"
+  },
+  "2": {
+    "n": "Hilo",
+    "l": "Hilo"
+  },
+  "3": {
+    "n": "Kailua",
+    "l": "Kailua"
+  },
+  "4": {
+    "n": "Kapolei",
+    "l": "Kapolei"
+  },
+  "5": {
+    "n": "Kaneohe",
+    "l": "Kāneʻohe"
+  },
+  "6": {
+    "n": "Pearl City",
+    "l": "Pearl City"
+  },
+  "7": {
+    "n": "Waipahu",
+    "l": "Waipahu"
+  },
+  "8": {
+    "n": "Lihue",
+    "l": "Līhuʻe"
+  },
+  "9": {
+    "n": "Lahaina",
+    "l": "Lahaina"
+  },
+  "10": {
+    "n": "Mililani Town",
+    "l": "Mililani Town"
+  }
+}

@@ -1,1 +1,42 @@
-{"1":{"n":"Anshun Shi","l":"安顺市"},"2":{"n":"Bijie Shi","l":"毕节市"},"3":{"n":"Guiyang Shi","l":"贵阳市"},"4":{"n":"Liupanshui Shi","l":"六盘水市"},"5":{"n":"Qiandongnan Miaozu Dongzu Zizhizhou","l":"黔东南苗族侗族自治州"},"6":{"n":"Qiannan Buyizu Miaozu Zizhizhou","l":"黔南布依族苗族自治州"},"7":{"n":"Qianxinan Buyizu Miaozu Zizhizhou","l":"黔西南布依族苗族自治州"},"8":{"n":"Tongren Shi","l":"铜仁市"},"9":{"n":"Zunyi Shi","l":"遵义市"}}
+{
+  "1": {
+    "n": "Guiyang",
+    "l": "贵阳"
+  },
+  "2": {
+    "n": "Zunyi",
+    "l": "遵义"
+  },
+  "3": {
+    "n": "Anshun",
+    "l": "安顺"
+  },
+  "4": {
+    "n": "Liupanshui",
+    "l": "六盘水"
+  },
+  "5": {
+    "n": "Bijie",
+    "l": "毕节"
+  },
+  "6": {
+    "n": "Tongren",
+    "l": "铜仁"
+  },
+  "7": {
+    "n": "Xingyi",
+    "l": "兴义"
+  },
+  "8": {
+    "n": "Kaili",
+    "l": "凯里"
+  },
+  "9": {
+    "n": "Duyun",
+    "l": "都匀"
+  },
+  "10": {
+    "n": "Renhuai",
+    "l": "仁怀"
+  }
+}

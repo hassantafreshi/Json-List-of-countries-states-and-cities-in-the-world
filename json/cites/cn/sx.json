@@ -1,1 +1,42 @@
-{"1":{"n":"Changzhi Shi","l":"长治市"},"2":{"n":"Datong Shi","l":"大同市"},"3":{"n":"Jincheng Shi","l":"晋城市"},"4":{"n":"Jinzhong Shi","l":"晋中市"},"5":{"n":"Linfen Shi","l":"临汾市"},"6":{"n":"Luliang Shi","l":"吕梁市"},"7":{"n":"Shuozhou Shi","l":"朔州市"},"8":{"n":"Taiyuan Shi","l":"太原市"},"9":{"n":"Xinzhou Shi","l":"忻州市"},"10":{"n":"Yangquan Shi","l":"阳泉市"},"11":{"n":"Yuncheng Shi","l":"运城市"}}
+{
+  "1": {
+    "n": "Taiyuan",
+    "l": "太原"
+  },
+  "2": {
+    "n": "Datong",
+    "l": "大同"
+  },
+  "3": {
+    "n": "Changzhi",
+    "l": "长治"
+  },
+  "4": {
+    "n": "Jincheng",
+    "l": "晋城"
+  },
+  "5": {
+    "n": "Yangquan",
+    "l": "阳泉"
+  },
+  "6": {
+    "n": "Linfen",
+    "l": "临汾"
+  },
+  "7": {
+    "n": "Lüliang",
+    "l": "吕梁"
+  },
+  "8": {
+    "n": "Yuncheng",
+    "l": "运城"
+  },
+  "9": {
+    "n": "Xinzhou",
+    "l": "忻州"
+  },
+  "10": {
+    "n": "Shuozhou",
+    "l": "朔州"
+  }
+}

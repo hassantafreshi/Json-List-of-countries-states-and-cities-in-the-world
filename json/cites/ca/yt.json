@@ -1,1 +1,42 @@
-{"1":{"n":"Whitehorse","l":""}}
+{
+  "1": {
+    "n": "Whitehorse",
+    "l": "Whitehorse"
+  },
+  "2": {
+    "n": "Dawson City",
+    "l": "Dawson City"
+  },
+  "3": {
+    "n": "Watson Lake",
+    "l": "Watson Lake"
+  },
+  "4": {
+    "n": "Haines Junction",
+    "l": "Haines Junction"
+  },
+  "5": {
+    "n": "Carmacks",
+    "l": "Carmacks"
+  },
+  "6": {
+    "n": "Faro",
+    "l": "Faro"
+  },
+  "7": {
+    "n": "Mayo",
+    "l": "Mayo"
+  },
+  "8": {
+    "n": "Carcross",
+    "l": "Carcross"
+  },
+  "9": {
+    "n": "Teslin",
+    "l": "Teslin"
+  },
+  "10": {
+    "n": "Old Crow",
+    "l": "Old Crow"
+  }
+}

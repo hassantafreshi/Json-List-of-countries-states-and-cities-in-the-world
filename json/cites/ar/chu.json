@@ -1,1 +1,50 @@
-{"1":{"n":"Biedma","l":""},"2":{"n":"Cushamen","l":""},"3":{"n":"Escalante","l":""},"4":{"n":"Florentino Ameghino","l":""},"5":{"n":"Futaleufu","l":""},"6":{"n":"Gaiman","l":""},"7":{"n":"Gastre","l":""},"8":{"n":"Languineo","l":""},"9":{"n":"Martires","l":""},"10":{"n":"Paso de Indios","l":""},"11":{"n":"Rawson","l":""},"12":{"n":"Rio Senguer","l":""},"13":{"n":"Sarmiento","l":""},"14":{"n":"Tehuelches","l":""},"15":{"n":"Telsen","l":""}}
+{
+  "1": {
+    "n": "Rawson",
+    "l": "Rawson"
+  },
+  "2": {
+    "n": "Trelew",
+    "l": "Trelew"
+  },
+  "3": {
+    "n": "Puerto Madryn",
+    "l": "Puerto Madryn"
+  },
+  "4": {
+    "n": "Comodoro Rivadavia",
+    "l": "Comodoro Rivadavia"
+  },
+  "5": {
+    "n": "Esquel",
+    "l": "Esquel"
+  },
+  "6": {
+    "n": "Sarmiento",
+    "l": "Sarmiento"
+  },
+  "7": {
+    "n": "Gaiman",
+    "l": "Gaiman"
+  },
+  "8": {
+    "n": "Dolavon",
+    "l": "Dolavon"
+  },
+  "9": {
+    "n": "Lago Puelo",
+    "l": "Lago Puelo"
+  },
+  "10": {
+    "n": "El Maitén",
+    "l": "El Maitén"
+  },
+  "11": {
+    "n": "El Hoyo",
+    "l": "El Hoyo"
+  },
+  "12": {
+    "n": "Trevelin",
+    "l": "Trevelin"
+  }
+}

@@ -1,1 +1,42 @@
-{"1":{"n":"Guoluo Zangzu Zizhizhou","l":"果洛藏族自治州"},"2":{"n":"Haibei Zangzu Zizhizhou","l":"海北藏族自治州"},"3":{"n":"Haidong Shi","l":"海东市"},"4":{"n":"Hainan Zangzu Zizhizhou","l":"海南藏族自治州"},"5":{"n":"Haixi Mengguzu Zangzu Zizhizhou","l":"海西蒙古族藏族自治州"},"6":{"n":"Huangnan Zangzu Zizhizhou","l":"黄南藏族自治州"},"7":{"n":"Xining Shi","l":"西宁市"},"8":{"n":"Yushu Zangzu Zizhizhou","l":"玉树藏族自治州"}}
+{
+  "1": {
+    "n": "Xining",
+    "l": "西宁"
+  },
+  "2": {
+    "n": "Haidong",
+    "l": "海东"
+  },
+  "3": {
+    "n": "Golmud",
+    "l": "格尔木"
+  },
+  "4": {
+    "n": "Delingha",
+    "l": "德令哈"
+  },
+  "5": {
+    "n": "Yushu",
+    "l": "玉树"
+  },
+  "6": {
+    "n": "Qilian",
+    "l": "祁连"
+  },
+  "7": {
+    "n": "Tongren",
+    "l": "同仁"
+  },
+  "8": {
+    "n": "Maqin",
+    "l": "玛沁"
+  },
+  "9": {
+    "n": "Guinan",
+    "l": "贵南"
+  },
+  "10": {
+    "n": "Zeku",
+    "l": "泽库"
+  }
+}

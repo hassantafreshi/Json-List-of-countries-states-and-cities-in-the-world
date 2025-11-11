@@ -1,1 +1,42 @@
-{"1":{"n":"Alameda","l":""},"2":{"n":"Alpine","l":""},"3":{"n":"Amador","l":""},"4":{"n":"Butte","l":""},"5":{"n":"Calaveras","l":""},"6":{"n":"Colusa","l":""},"7":{"n":"Contra Costa","l":""},"8":{"n":"Del Norte","l":""},"9":{"n":"El Dorado","l":""},"10":{"n":"Fresno","l":""},"11":{"n":"Glenn","l":""},"12":{"n":"Humboldt","l":""},"13":{"n":"Imperial","l":""},"14":{"n":"Inyo","l":""},"15":{"n":"Kern","l":""},"16":{"n":"Kings","l":""},"17":{"n":"Lake","l":""},"18":{"n":"Lassen","l":""},"19":{"n":"Los Angeles","l":""},"20":{"n":"Madera","l":""},"21":{"n":"Marin","l":""},"22":{"n":"Mariposa","l":""},"23":{"n":"Mendocino","l":""},"24":{"n":"Merced","l":""},"25":{"n":"Modoc","l":""},"26":{"n":"Mono","l":""},"27":{"n":"Monterey","l":""},"28":{"n":"Napa","l":""},"29":{"n":"Nevada","l":""},"30":{"n":"Orange","l":""},"31":{"n":"Placer","l":""},"32":{"n":"Plumas","l":""},"33":{"n":"Riverside","l":""},"34":{"n":"Sacramento","l":""},"35":{"n":"San Benito","l":""},"36":{"n":"San Bernardino","l":""},"37":{"n":"San Diego","l":""},"38":{"n":"San Francisco","l":""},"39":{"n":"San Joaquin","l":""},"40":{"n":"San Luis Obispo","l":""},"41":{"n":"San Mateo","l":""},"42":{"n":"Santa Barbara","l":""},"43":{"n":"Santa Clara","l":""},"44":{"n":"Santa Cruz","l":""},"45":{"n":"Shasta","l":""},"46":{"n":"Sierra","l":""},"47":{"n":"Siskiyou","l":""},"48":{"n":"Solano","l":""},"49":{"n":"Sonoma","l":""},"50":{"n":"Stanislaus","l":""},"51":{"n":"Sutter","l":""},"52":{"n":"Tehama","l":""},"53":{"n":"Trinity","l":""},"54":{"n":"Tulare","l":""},"55":{"n":"Tuolumne","l":""},"56":{"n":"Ventura","l":""},"57":{"n":"Yolo","l":""},"58":{"n":"Yuba","l":""}}
+{
+  "1": {
+    "n": "Los Angeles",
+    "l": "Los Angeles"
+  },
+  "2": {
+    "n": "San Diego",
+    "l": "San Diego"
+  },
+  "3": {
+    "n": "San Jose",
+    "l": "San Jose"
+  },
+  "4": {
+    "n": "San Francisco",
+    "l": "San Francisco"
+  },
+  "5": {
+    "n": "Fresno",
+    "l": "Fresno"
+  },
+  "6": {
+    "n": "Sacramento",
+    "l": "Sacramento"
+  },
+  "7": {
+    "n": "Long Beach",
+    "l": "Long Beach"
+  },
+  "8": {
+    "n": "Oakland",
+    "l": "Oakland"
+  },
+  "9": {
+    "n": "Bakersfield",
+    "l": "Bakersfield"
+  },
+  "10": {
+    "n": "Anaheim",
+    "l": "Anaheim"
+  }
+}

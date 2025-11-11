@@ -1,1 +1,42 @@
-{"1":{"n":"Adams","l":""},"2":{"n":"Barnes","l":""},"3":{"n":"Benson","l":""},"4":{"n":"Billings","l":""},"5":{"n":"Bottineau","l":""},"6":{"n":"Bowman","l":""},"7":{"n":"Burke","l":""},"8":{"n":"Burleigh","l":""},"9":{"n":"Cass","l":""},"10":{"n":"Cavalier","l":""},"11":{"n":"Dickey","l":""},"12":{"n":"Divide","l":""},"13":{"n":"Dunn","l":""},"14":{"n":"Eddy","l":""},"15":{"n":"Emmons","l":""},"16":{"n":"Foster","l":""},"17":{"n":"Golden Valley","l":""},"18":{"n":"Grand Forks","l":""},"19":{"n":"Grant","l":""},"20":{"n":"Griggs","l":""},"21":{"n":"Hettinger","l":""},"22":{"n":"Kidder","l":""},"23":{"n":"LaMoure","l":""},"24":{"n":"Logan","l":""},"25":{"n":"McHenry","l":""},"26":{"n":"McIntosh","l":""},"27":{"n":"McKenzie","l":""},"28":{"n":"McLean","l":""},"29":{"n":"Mercer","l":""},"30":{"n":"Morton","l":""},"31":{"n":"Mountrail","l":""},"32":{"n":"Nelson","l":""},"33":{"n":"Oliver","l":""},"34":{"n":"Pembina","l":""},"35":{"n":"Pierce","l":""},"36":{"n":"Ramsey","l":""},"37":{"n":"Ransom","l":""},"38":{"n":"Renville","l":""},"39":{"n":"Richland","l":""},"40":{"n":"Rolette","l":""},"41":{"n":"Sargent","l":""},"42":{"n":"Sheridan","l":""},"43":{"n":"Sioux","l":""},"44":{"n":"Slope","l":""},"45":{"n":"Stark","l":""},"46":{"n":"Steele","l":""},"47":{"n":"Stutsman","l":""},"48":{"n":"Towner","l":""},"49":{"n":"Traill","l":""},"50":{"n":"Walsh","l":""},"51":{"n":"Ward","l":""},"52":{"n":"Wells","l":""},"53":{"n":"Williams","l":""}}
+{
+  "1": {
+    "n": "Fargo",
+    "l": "Fargo"
+  },
+  "2": {
+    "n": "Bismarck",
+    "l": "Bismarck"
+  },
+  "3": {
+    "n": "Grand Forks",
+    "l": "Grand Forks"
+  },
+  "4": {
+    "n": "Minot",
+    "l": "Minot"
+  },
+  "5": {
+    "n": "West Fargo",
+    "l": "West Fargo"
+  },
+  "6": {
+    "n": "Williston",
+    "l": "Williston"
+  },
+  "7": {
+    "n": "Dickinson",
+    "l": "Dickinson"
+  },
+  "8": {
+    "n": "Mandan",
+    "l": "Mandan"
+  },
+  "9": {
+    "n": "Jamestown",
+    "l": "Jamestown"
+  },
+  "10": {
+    "n": "Wahpeton",
+    "l": "Wahpeton"
+  }
+}

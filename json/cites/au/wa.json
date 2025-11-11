@@ -1,1 +1,94 @@
-{"1":{"n":"Albany","l":""},"2":{"n":"Armadale","l":""},"3":{"n":"Ashburton","l":""},"4":{"n":"Augusta-Margaret River","l":""},"5":{"n":"Bassendean","l":""},"6":{"n":"Bayswater","l":""},"7":{"n":"Belmont","l":""},"8":{"n":"Beverley","l":""},"9":{"n":"Boddington","l":""},"10":{"n":"Boyup Brook","l":""},"11":{"n":"Bridgetown-Greenbushes","l":""},"12":{"n":"Brookton","l":""},"13":{"n":"Broome","l":""},"14":{"n":"Broomehill-Tambellup","l":""},"15":{"n":"Bruce Rock","l":""},"16":{"n":"Bunbury","l":""},"17":{"n":"Busselton","l":""},"18":{"n":"Cambridge","l":""},"19":{"n":"Canning","l":""},"20":{"n":"Capel","l":""},"21":{"n":"Carnamah","l":""},"22":{"n":"Carnarvon","l":""},"23":{"n":"Chapman Valley","l":""},"24":{"n":"Chittering","l":""},"25":{"n":"Claremont","l":""},"26":{"n":"Cockburn","l":""},"27":{"n":"Collie","l":""},"28":{"n":"Coolgardie","l":""},"29":{"n":"Coorow","l":""},"30":{"n":"Corrigin","l":""},"31":{"n":"Cottesloe","l":""},"32":{"n":"Cranbrook","l":""},"33":{"n":"Cuballing","l":""},"34":{"n":"Cue","l":""},"35":{"n":"Cunderdin","l":""},"36":{"n":"Dalwallinu","l":""},"37":{"n":"Dandaragan","l":""},"38":{"n":"Dardanup","l":""},"39":{"n":"Denmark","l":""},"40":{"n":"Derby-West Kimberley","l":""},"41":{"n":"Donnybrook-Balingup","l":""},"42":{"n":"Dowerin","l":""},"43":{"n":"Dumbleyung","l":""},"44":{"n":"Dundas","l":""},"45":{"n":"East Fremantle","l":""},"46":{"n":"East Pilbara","l":""},"47":{"n":"Esperance","l":""},"48":{"n":"Exmouth","l":""},"49":{"n":"Fremantle","l":""},"50":{"n":"Gingin","l":""},"51":{"n":"Gnowangerup","l":""},"52":{"n":"Goomalling","l":""},"53":{"n":"Gosnells","l":""},"54":{"n":"Greater Geraldton","l":""},"55":{"n":"Halls Creek","l":""},"56":{"n":"Harvey","l":""},"57":{"n":"Irwin","l":""},"58":{"n":"Jerramungup","l":""},"59":{"n":"Joondalup","l":""},"60":{"n":"Kalamunda","l":""},"61":{"n":"Kalgoorlie-Boulder","l":""},"62":{"n":"Karratha","l":""},"63":{"n":"Katanning","l":""},"64":{"n":"Kellerberrin","l":""},"65":{"n":"Kent","l":""},"66":{"n":"Kojonup","l":""},"67":{"n":"Kondinin","l":""},"68":{"n":"Koorda","l":""},"69":{"n":"Kulin","l":""},"70":{"n":"Kwinana","l":""},"71":{"n":"Lake Grace","l":""},"72":{"n":"Laverton","l":""},"73":{"n":"Leonora","l":""},"74":{"n":"Mandurah","l":""},"75":{"n":"Manjimup","l":""},"76":{"n":"Meekatharra","l":""},"77":{"n":"Melville","l":""},"78":{"n":"Menzies","l":""},"79":{"n":"Merredin","l":""},"80":{"n":"Mingenew","l":""},"81":{"n":"Moora","l":""},"82":{"n":"Morawa","l":""},"83":{"n":"Mosman Park","l":""},"84":{"n":"Mount Magnet","l":""},"85":{"n":"Mount Marshall","l":""},"86":{"n":"Mukinbudin","l":""},"87":{"n":"Mundaring","l":""},"88":{"n":"Murchison","l":""},"89":{"n":"Murray","l":""},"90":{"n":"Nannup","l":""},"91":{"n":"Narembeen","l":""},"92":{"n":"Narrogin","l":""},"93":{"n":"Nedlands","l":""},"94":{"n":"Ngaanyatjarraku","l":""},"95":{"n":"Northam","l":""},"96":{"n":"Northampton","l":""},"97":{"n":"Nungarin","l":""},"98":{"n":"Peppermint Grove","l":""},"99":{"n":"Perenjori","l":""},"100":{"n":"Perth","l":""},"101":{"n":"Pingelly","l":""},"102":{"n":"Plantagenet","l":""},"103":{"n":"Port Hedland","l":""},"104":{"n":"Quairading","l":""},"105":{"n":"Ravensthorpe","l":""},"106":{"n":"Rockingham","l":""},"107":{"n":"Sandstone","l":""},"108":{"n":"Serpentine-Jarrahdale","l":""},"109":{"n":"Shark Bay","l":""},"110":{"n":"South Perth","l":""},"111":{"n":"Stirling","l":""},"112":{"n":"Subiaco","l":""},"113":{"n":"Swan","l":""},"114":{"n":"Tammin","l":""},"115":{"n":"Three Springs","l":""},"116":{"n":"Toodyay","l":""},"117":{"n":"Trayning","l":""},"118":{"n":"Upper Gascoyne","l":""},"119":{"n":"Victoria Park","l":""},"120":{"n":"Victoria Plains","l":""},"121":{"n":"Vincent","l":""},"122":{"n":"Wagin","l":""},"123":{"n":"Wandering","l":""},"124":{"n":"Wanneroo","l":""},"125":{"n":"Waroona","l":""},"126":{"n":"West Arthur","l":""},"127":{"n":"Westonia","l":""},"128":{"n":"Wickepin","l":""},"129":{"n":"Williams","l":""},"130":{"n":"Wiluna","l":""},"131":{"n":"Wongan-Ballidu","l":""},"132":{"n":"Woodanilling","l":""},"133":{"n":"Wyalkatchem","l":""},"134":{"n":"Wyndham-East Kimberley","l":""},"135":{"n":"Yalgoo","l":""},"136":{"n":"Yilgarn","l":""},"137":{"n":"York","l":""}}
+{
+  "1": {
+    "n": "Albany",
+    "l": "Albany"
+  },
+  "2": {
+    "n": "Armadale",
+    "l": "Armadale"
+  },
+  "3": {
+    "n": "Bayswater",
+    "l": "Bayswater"
+  },
+  "4": {
+    "n": "Belmont",
+    "l": "Belmont"
+  },
+  "5": {
+    "n": "Bunbury",
+    "l": "Bunbury"
+  },
+  "6": {
+    "n": "Busselton",
+    "l": "Busselton"
+  },
+  "7": {
+    "n": "Canning",
+    "l": "Canning"
+  },
+  "8": {
+    "n": "Cockburn",
+    "l": "Cockburn"
+  },
+  "9": {
+    "n": "Fremantle",
+    "l": "Fremantle"
+  },
+  "10": {
+    "n": "Gosnells",
+    "l": "Gosnells"
+  },
+  "11": {
+    "n": "Joondalup",
+    "l": "Joondalup"
+  },
+  "12": {
+    "n": "Kalamunda",
+    "l": "Kalamunda"
+  },
+  "13": {
+    "n": "Karratha",
+    "l": "Karratha"
+  },
+  "14": {
+    "n": "Kwinana",
+    "l": "Kwinana"
+  },
+  "15": {
+    "n": "Mandurah",
+    "l": "Mandurah"
+  },
+  "16": {
+    "n": "Melville",
+    "l": "Melville"
+  },
+  "17": {
+    "n": "Perth",
+    "l": "Perth"
+  },
+  "18": {
+    "n": "Rockingham",
+    "l": "Rockingham"
+  },
+  "19": {
+    "n": "South Perth",
+    "l": "South Perth"
+  },
+  "20": {
+    "n": "Stirling",
+    "l": "Stirling"
+  },
+  "21": {
+    "n": "Subiaco",
+    "l": "Subiaco"
+  },
+  "22": {
+    "n": "Swan",
+    "l": "Swan"
+  },
+  "23": {
+    "n": "Vincent",
+    "l": "Vincent"
+  }
+}

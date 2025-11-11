@@ -1,1 +1,42 @@
-{"1":{"n":"Androscoggin","l":""},"2":{"n":"Aroostook","l":""},"3":{"n":"Cumberland","l":""},"4":{"n":"Franklin","l":""},"5":{"n":"Hancock","l":""},"6":{"n":"Kennebec","l":""},"7":{"n":"Knox","l":""},"8":{"n":"Lincoln","l":""},"9":{"n":"Oxford","l":""},"10":{"n":"Penobscot","l":""},"11":{"n":"Piscataquis","l":""},"12":{"n":"Sagadahoc","l":""},"13":{"n":"Somerset","l":""},"14":{"n":"Waldo","l":""},"15":{"n":"Washington","l":""},"16":{"n":"York","l":""}}
+{
+  "1": {
+    "n": "Portland",
+    "l": "Portland"
+  },
+  "2": {
+    "n": "Lewiston",
+    "l": "Lewiston"
+  },
+  "3": {
+    "n": "Bangor",
+    "l": "Bangor"
+  },
+  "4": {
+    "n": "South Portland",
+    "l": "South Portland"
+  },
+  "5": {
+    "n": "Auburn",
+    "l": "Auburn"
+  },
+  "6": {
+    "n": "Biddeford",
+    "l": "Biddeford"
+  },
+  "7": {
+    "n": "Saco",
+    "l": "Saco"
+  },
+  "8": {
+    "n": "Augusta",
+    "l": "Augusta"
+  },
+  "9": {
+    "n": "Westbrook",
+    "l": "Westbrook"
+  },
+  "10": {
+    "n": "Sanford",
+    "l": "Sanford"
+  }
+}

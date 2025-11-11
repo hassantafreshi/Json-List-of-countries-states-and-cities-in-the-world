@@ -1,1 +1,42 @@
-{"1":{"n":"Bernalillo","l":""},"2":{"n":"Catron","l":""},"3":{"n":"Chaves","l":""},"4":{"n":"Cibola","l":""},"5":{"n":"Colfax","l":""},"6":{"n":"Curry","l":""},"7":{"n":"De Baca","l":""},"8":{"n":"Dona Ana","l":""},"9":{"n":"Eddy","l":""},"10":{"n":"Grant","l":""},"11":{"n":"Guadalupe","l":""},"12":{"n":"Harding","l":""},"13":{"n":"Hidalgo","l":""},"14":{"n":"Lea","l":""},"15":{"n":"Lincoln","l":""},"16":{"n":"Los Alamos","l":""},"17":{"n":"Luna","l":""},"18":{"n":"McKinley","l":""},"19":{"n":"Mora","l":""},"20":{"n":"Otero","l":""},"21":{"n":"Quay","l":""},"22":{"n":"Rio Arriba","l":""},"23":{"n":"Roosevelt","l":""},"24":{"n":"Sandoval","l":""},"25":{"n":"San Juan","l":""},"26":{"n":"San Miguel","l":""},"27":{"n":"Santa Fe","l":""},"28":{"n":"Sierra","l":""},"29":{"n":"Socorro","l":""},"30":{"n":"Taos","l":""},"31":{"n":"Torrance","l":""},"32":{"n":"Union","l":""},"33":{"n":"Valencia","l":""}}
+{
+  "1": {
+    "n": "Albuquerque",
+    "l": "Albuquerque"
+  },
+  "2": {
+    "n": "Las Cruces",
+    "l": "Las Cruces"
+  },
+  "3": {
+    "n": "Rio Rancho",
+    "l": "Rio Rancho"
+  },
+  "4": {
+    "n": "Santa Fe",
+    "l": "Santa Fe"
+  },
+  "5": {
+    "n": "Roswell",
+    "l": "Roswell"
+  },
+  "6": {
+    "n": "Farmington",
+    "l": "Farmington"
+  },
+  "7": {
+    "n": "Hobbs",
+    "l": "Hobbs"
+  },
+  "8": {
+    "n": "Clovis",
+    "l": "Clovis"
+  },
+  "9": {
+    "n": "Gallup",
+    "l": "Gallup"
+  },
+  "10": {
+    "n": "Carlsbad",
+    "l": "Carlsbad"
+  }
+}

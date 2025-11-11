@@ -1,1 +1,42 @@
-{"1":{"n":"Fairfield","l":""},"2":{"n":"Hartford","l":""},"3":{"n":"Litchfield","l":""},"4":{"n":"Middlesex","l":""},"5":{"n":"New Haven","l":""},"6":{"n":"New London","l":""},"7":{"n":"Tolland","l":""},"8":{"n":"Windham","l":""}}
+{
+  "1": {
+    "n": "Bridgeport",
+    "l": "Bridgeport"
+  },
+  "2": {
+    "n": "New Haven",
+    "l": "New Haven"
+  },
+  "3": {
+    "n": "Stamford",
+    "l": "Stamford"
+  },
+  "4": {
+    "n": "Hartford",
+    "l": "Hartford"
+  },
+  "5": {
+    "n": "Waterbury",
+    "l": "Waterbury"
+  },
+  "6": {
+    "n": "Norwalk",
+    "l": "Norwalk"
+  },
+  "7": {
+    "n": "Danbury",
+    "l": "Danbury"
+  },
+  "8": {
+    "n": "New Britain",
+    "l": "New Britain"
+  },
+  "9": {
+    "n": "Bristol",
+    "l": "Bristol"
+  },
+  "10": {
+    "n": "Meriden",
+    "l": "Meriden"
+  }
+}

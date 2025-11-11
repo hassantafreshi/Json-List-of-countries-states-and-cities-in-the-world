@@ -1,1 +1,42 @@
-{"1":{"n":"Aba Zangzu Qiangzu Zizhizhou","l":"阿坝藏族羌族自治州"},"2":{"n":"Bazhong Shi","l":"巴中市"},"3":{"n":"Chengdu Shi","l":"成都市"},"4":{"n":"Dazhou Shi","l":"达州市"},"5":{"n":"Deyang Shi","l":"德阳市"},"6":{"n":"Ganzi Zangzu Zizhizhou","l":"甘孜藏族自治州"},"7":{"n":"Guangan Shi","l":"广安市"},"8":{"n":"Guangyuan Shi","l":"广元市"},"9":{"n":"Leshan Shi","l":"乐山市"},"10":{"n":"Liangshan Yizu Zizhizhou","l":"凉山彝族自治州"},"11":{"n":"Luzhou Shi","l":"泸州市"},"12":{"n":"Meishan Shi","l":"眉山市"},"13":{"n":"Mianyang Shi","l":"绵阳市"},"14":{"n":"Nanchong Shi","l":"南充市"},"15":{"n":"Neijiang Shi","l":"内江市"},"16":{"n":"Panzhihua Shi","l":"攀枝花市"},"17":{"n":"Suining Shi","l":"遂宁市"},"18":{"n":"Yaan Shi","l":"雅安市"},"19":{"n":"Yibin Shi","l":"宜宾市"},"20":{"n":"Zigong Shi","l":"自贡市"},"21":{"n":"Ziyang Shi","l":"资阳市"}}
+{
+  "1": {
+    "n": "Chengdu",
+    "l": "成都"
+  },
+  "2": {
+    "n": "Mianyang",
+    "l": "绵阳"
+  },
+  "3": {
+    "n": "Deyang",
+    "l": "德阳"
+  },
+  "4": {
+    "n": "Nanchong",
+    "l": "南充"
+  },
+  "5": {
+    "n": "Zigong",
+    "l": "自贡"
+  },
+  "6": {
+    "n": "Luzhou",
+    "l": "泸州"
+  },
+  "7": {
+    "n": "Leshan",
+    "l": "乐山"
+  },
+  "8": {
+    "n": "Yibin",
+    "l": "宜宾"
+  },
+  "9": {
+    "n": "Panzhihua",
+    "l": "攀枝花"
+  },
+  "10": {
+    "n": "Suining",
+    "l": "遂宁"
+  }
+}

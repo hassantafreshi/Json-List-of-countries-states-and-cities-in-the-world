@@ -1,1 +1,42 @@
-{"1":{"n":"Daqing Shi","l":"大庆市"},"2":{"n":"Daxinganling Diqu","l":"大兴安岭地区"},"3":{"n":"Haerbin Shi","l":"哈尔滨市"},"4":{"n":"Hegang Shi","l":"鹤岗市"},"5":{"n":"Heihe Shi","l":"黑河市"},"6":{"n":"Jiamusi Shi","l":"佳木斯市"},"7":{"n":"Jixi Shi","l":"鸡西市"},"8":{"n":"Mudanjiang Shi","l":"牡丹江市"},"9":{"n":"Qiqihaer Shi","l":"齐齐哈尔市"},"10":{"n":"Qitaihe Shi","l":"七台河市"},"11":{"n":"Shuangyashan Shi","l":"双鸭山市"},"12":{"n":"Suihua Shi","l":"绥化市"},"13":{"n":"Yichun Shi","l":"伊春市"}}
+{
+  "1": {
+    "n": "Harbin",
+    "l": "哈尔滨"
+  },
+  "2": {
+    "n": "Qiqihar",
+    "l": "齐齐哈尔"
+  },
+  "3": {
+    "n": "Mudanjiang",
+    "l": "牡丹江"
+  },
+  "4": {
+    "n": "Jiamusi",
+    "l": "佳木斯"
+  },
+  "5": {
+    "n": "Daqing",
+    "l": "大庆"
+  },
+  "6": {
+    "n": "Heihe",
+    "l": "黑河"
+  },
+  "7": {
+    "n": "Hegang",
+    "l": "鹤岗"
+  },
+  "8": {
+    "n": "Shuangyashan",
+    "l": "双鸭山"
+  },
+  "9": {
+    "n": "Yichun",
+    "l": "伊春"
+  },
+  "10": {
+    "n": "Qitaihe",
+    "l": "七台河"
+  }
+}

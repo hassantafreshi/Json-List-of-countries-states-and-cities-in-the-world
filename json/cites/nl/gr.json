@@ -1,1 +1,42 @@
-{"1":{"n":"Eemsdelta","l":""},"2":{"n":"Groningen","l":""},"3":{"n":"Het Hogeland","l":""},"4":{"n":"Midden-Groningen","l":""},"5":{"n":"Oldambt","l":""},"6":{"n":"Pekela","l":""},"7":{"n":"Stadskanaal","l":""},"8":{"n":"Veendam","l":""},"9":{"n":"Westerkwartier","l":""},"10":{"n":"Westerwolde","l":""}}
+{
+  "1": {
+    "n": "Groningen",
+    "l": "Groningen"
+  },
+  "2": {
+    "n": "Eemsdelta",
+    "l": "Eemsdelta"
+  },
+  "3": {
+    "n": "Het Hogeland",
+    "l": "Het Hogeland"
+  },
+  "4": {
+    "n": "Westerkwartier",
+    "l": "Westerkwartier"
+  },
+  "5": {
+    "n": "Midden-Groningen",
+    "l": "Midden-Groningen"
+  },
+  "6": {
+    "n": "Stadskanaal",
+    "l": "Stadskanaal"
+  },
+  "7": {
+    "n": "Veendam",
+    "l": "Veendam"
+  },
+  "8": {
+    "n": "Pekela",
+    "l": "Pekela"
+  },
+  "9": {
+    "n": "Oldambt",
+    "l": "Oldambt"
+  },
+  "10": {
+    "n": "Westerwolde",
+    "l": "Westerwolde"
+  }
+}
